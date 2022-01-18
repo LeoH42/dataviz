@@ -1,0 +1,687 @@
+jour,heures_totales,minutes_totales,applications,heures_application,minutes_application,categorie,Evenement
+22/11/2021,4,48,Instagram,1,41,reseaux sociaux,DeadLine TP3 DataViz
+22/11/2021,4,48,Twitter,0,41,reseaux sociaux,DeadLine TP3 DataViz
+22/11/2021,4,48,Safari,0,40,divertissement,DeadLine TP3 DataViz
+22/11/2021,4,48,Brawl Stars,0,23,jeux,DeadLine TP3 DataViz
+22/11/2021,4,48,Snapchat,0,18,reseaux sociaux,DeadLine TP3 DataViz
+22/11/2021,4,48,Facebook,0,15,reseaux sociaux,DeadLine TP3 DataViz
+22/11/2021,4,48,Messenger,0,7,reseaux sociaux,DeadLine TP3 DataViz
+22/11/2021,4,48,Youtube,0,3,divertissement,DeadLine TP3 DataViz
+22/11/2021,4,48,Calendrier,0,3,utilitaire,DeadLine TP3 DataViz
+22/11/2021,4,48,SportEasy,0,3,divertissement,DeadLine TP3 DataViz
+22/11/2021,4,48,Photos,0,2,creativite,DeadLine TP3 DataViz
+22/11/2021,4,48,Spotify,0,1,divertissement,DeadLine TP3 DataViz
+22/11/2021,4,48,Mail,0,1,utilitaire,DeadLine TP3 DataViz
+23/11/2021,6,4,Youtube,2,53,divertissement,Examen SMA
+23/11/2021,6,4,Brawl Stars,0,33,jeux,Examen SMA
+23/11/2021,6,4,Instagram,0,24,reseaux sociaux,Examen SMA
+23/11/2021,6,4,Spotify,0,15,divertissement,Examen SMA
+23/11/2021,6,4,Snapchat,0,15,reseaux sociaux,Examen SMA
+23/11/2021,6,4,Messenger,0,14,reseaux sociaux,Examen SMA
+23/11/2021,6,4,Facebook,0,12,reseaux sociaux,Examen SMA
+23/11/2021,6,4,Reglages,0,12,utilitaire,Examen SMA
+23/11/2021,6,4,Twitter,0,6,reseaux sociaux,Examen SMA
+23/11/2021,6,4,LinkedIn,0,6,reseaux sociaux,Examen SMA
+23/11/2021,6,4,Discord,0,3,reseaux sociaux,Examen SMA
+23/11/2021,6,4,Calendrier,0,2,utilitaire,Examen SMA
+23/11/2021,6,4,Caf,0,2,utilitaire,Examen SMA
+23/11/2021,6,4,App Store,0,2,utilitaire,Examen SMA
+23/11/2021,6,4,Drive,0,1,utilitaire,Examen SMA
+23/11/2021,6,4,FlashScore,0,1,divertissement,Examen SMA
+23/11/2021,6,4,Safari,0,1,divertissement,Examen SMA
+24/11/2021,6,26,Youtube,1,56,divertissement,
+24/11/2021,6,26,Brawl Stars,0,34,jeux,
+24/11/2021,6,26,Snapchat,0,31,reseaux sociaux,
+24/11/2021,6,26,Facebook,0,20,reseaux sociaux,
+24/11/2021,6,26,Instagram,0,15,reseaux sociaux,
+24/11/2021,6,26,Webtoon,0,14,divertissement,
+24/11/2021,6,26,Jodel,0,12,reseaux sociaux,
+24/11/2021,6,26,Spotify,0,11,divertissement,
+24/11/2021,6,26,Photos,0,7,creativite,
+24/11/2021,6,26,Reddit,0,7,reseaux sociaux,
+24/11/2021,6,26,Calendrier,0,7,utilitaire,
+24/11/2021,6,26,Reglages,0,5,utilitaire,
+24/11/2021,6,26,Messages,0,4,reseaux sociaux,
+24/11/2021,6,26,Messenger,0,4,reseaux sociaux,
+24/11/2021,6,26,Telephone,0,3,utilitaire,
+24/11/2021,6,26,Mail,0,3,utilitaire,
+24/11/2021,6,26,App Store,0,2,utilitaire,
+24/11/2021,6,26,Discord,0,2,reseaux sociaux,
+24/11/2021,6,26,Appareil photo,0,1,creativite,
+24/11/2021,6,26,FlashScore,0,1,divertissement,
+24/11/2021,6,26,SportEasy,0,1,divertissement,
+25/11/2021,6,40,Botworld,1,22,jeux,
+25/11/2021,6,40,Brawl Stars,1,1,jeux,
+25/11/2021,6,40,Youtube,0,56,divertissement,
+25/11/2021,6,40,Instagram,0,32,reseaux sociaux,
+25/11/2021,6,40,Reddit,0,32,reseaux sociaux,
+25/11/2021,6,40,Snapchat,0,25,reseaux sociaux,
+25/11/2021,6,40,Spotify,0,16,divertissement,
+25/11/2021,6,40,Facebook,0,13,reseaux sociaux,
+25/11/2021,6,40,Discord,0,8,reseaux sociaux,
+25/11/2021,6,40,Météo,0,6,utilitaire,
+25/11/2021,6,40,FlashScore,0,5,divertissement,
+25/11/2021,6,40,Twitter,0,3,reseaux sociaux,
+25/11/2021,6,40,Messages,0,2,reseaux sociaux,
+25/11/2021,6,40,AntiCovid,0,2,utilitaire,
+25/11/2021,6,40,LinkedIn,0,1,reseaux sociaux,
+25/11/2021,6,40,Messenger,0,1,reseaux sociaux,
+25/11/2021,6,40,Calendrier,0,1,utilitaire,
+26/11/2021,5,57,Youtube,2,7,divertissement,
+26/11/2021,5,57,Brawl Stars,1,14,jeux,
+26/11/2021,5,57,Waze,0,37,voyage,
+26/11/2021,5,57,Snapchat,0,26,reseaux sociaux,
+26/11/2021,5,57,Instagram,0,14,reseaux sociaux,
+26/11/2021,5,57,Safari,0,10,divertissement,
+26/11/2021,5,57,Spotify,0,8,divertissement,
+26/11/2021,5,57,Discord,0,7,reseaux sociaux,
+26/11/2021,5,57,Facebook,0,5,reseaux sociaux,
+26/11/2021,5,57,Mail,0,3,utilitaire,
+26/11/2021,5,57,Messenger,0,1,reseaux sociaux,
+26/11/2021,5,57,Calendrier,0,1,utilitaire,
+26/11/2021,5,57,Plans,0,1,voyage,
+26/11/2021,5,57,Safari,0,1,divertissement,
+27/11/2021,5,44,Facebook,1,10,reseaux sociaux,
+27/11/2021,5,44,Twitter,1,7,reseaux sociaux,
+27/11/2021,5,44,Twitch,0,47,divertissement,
+27/11/2021,5,44,Safari,0,38,divertissement,
+27/11/2021,5,44,Instagram,0,28,reseaux sociaux,
+27/11/2021,5,44,Brawl Stars,0,18,jeux,
+27/11/2021,5,44,Snapchat,0,17,reseaux sociaux,
+27/11/2021,5,44,Webtoon,0,9,divertissement,
+27/11/2021,5,44,Spotify,0,7,divertissement,
+27/11/2021,5,44,Messages,0,6,reseaux sociaux,
+27/11/2021,5,44,Discord,0,3,reseaux sociaux,
+27/11/2021,5,44,Youtube,0,2,divertissement,
+27/11/2021,5,44,FlashScore,0,1,divertissement,
+28/11/2021,7,39,Safari,1,42,divertissement,
+28/11/2021,7,39,Brawl Stars,1,0,jeux,
+28/11/2021,7,39,Twitch,0,57,divertissement,
+28/11/2021,7,39,Instagram,0,39,reseaux sociaux,
+28/11/2021,7,39,Snapchat,0,34,reseaux sociaux,
+28/11/2021,7,39,Facebook,0,32,reseaux sociaux,
+28/11/2021,7,39,Botworld,0,29,jeux,
+28/11/2021,7,39,Messages,0,21,reseaux sociaux,
+28/11/2021,7,39,Discord,0,11,reseaux sociaux,
+28/11/2021,7,39,Spotify,0,8,divertissement,
+28/11/2021,7,39,Reddit,0,6,reseaux sociaux,
+28/11/2021,7,39,Pinterest,0,6,reseaux sociaux,
+28/11/2021,7,39,Messenger,0,4,reseaux sociaux,
+28/11/2021,7,39,LinkedIn,0,2,reseaux sociaux,
+28/11/2021,7,39,FlashScore,0,2,divertissement,
+28/11/2021,7,39,SportEasy,0,1,divertissement,
+28/11/2021,7,39,Photos,0,1,creativite,
+28/11/2021,7,39,Waze,0,1,voyage,
+29/11/2021,6,57,Twitter,0,52,reseaux sociaux,
+29/11/2021,6,57,Brawl Stars,0,41,jeux,
+29/11/2021,6,57,Botworld,0,40,jeux,
+29/11/2021,6,57,Instagram,0,38,reseaux sociaux,
+29/11/2021,6,57,Safari,0,39,divertissement,
+29/11/2021,6,57,Facebook,0,33,reseaux sociaux,
+29/11/2021,6,57,Twitch,0,32,divertissement,
+29/11/2021,6,57,Snapchat,0,17,reseaux sociaux,
+29/11/2021,6,57,LinkedIn,0,12,reseaux sociaux,
+29/11/2021,6,57,Calendrier,0,11,utilitaire,
+29/11/2021,6,57,Youtube,0,11,divertissement,
+29/11/2021,6,57,Spotify,0,10,divertissement,
+29/11/2021,6,57,Mail,0,8,utilitaire,
+29/11/2021,6,57,L'Equipe,0,8,divertissement,
+29/11/2021,6,57,Messages,0,5,reseaux sociaux,
+29/11/2021,6,57,Messenger,0,3,reseaux sociaux,
+29/11/2021,6,57,Discord,0,1,reseaux sociaux,
+29/11/2021,6,57,WhatsApp,0,1,reseaux sociaux,
+29/11/2021,6,57,App Store,0,1,utilitaire,
+29/11/2021,6,57,Webtoon,0,1,divertissement,
+29/11/2021,6,57,SportEasy,0,1,divertissement,
+30/11/2021,3,8,Snapchat,0,36,reseaux sociaux,
+30/11/2021,3,8,Brawl Stars,0,34,jeux,
+30/11/2021,3,8,Spotify,0,16,divertissement,
+30/11/2021,3,8,Facebook,0,10,reseaux sociaux,
+30/11/2021,3,8,Youtube,0,10,divertissement,
+30/11/2021,3,8,Instagram,0,7,reseaux sociaux,
+30/11/2021,3,8,Discord,0,4,reseaux sociaux,
+30/11/2021,3,8,Messenger,0,4,reseaux sociaux,
+30/11/2021,3,8,MyAnimeList,0,3,divertissement,
+30/11/2021,3,8,Safari,0,2,divertissement,
+30/11/2021,3,8,Calendrier,0,1,utilitaire,
+01/12/2021,7,20,Safari,1,38,divertissement,
+01/12/2021,7,20,Brawl Stars,0,57,jeux,
+01/12/2021,7,20,Facebook,0,55,reseaux sociaux,
+01/12/2021,7,20,Snapchat,0,38,reseaux sociaux,
+01/12/2021,7,20,Botworld,0,27,jeux,
+01/12/2021,7,20,Instagram,0,25,reseaux sociaux,
+01/12/2021,7,20,Twitter,0,24,reseaux sociaux,
+01/12/2021,7,20,Youtube,0,20,divertissement,
+01/12/2021,7,20,Calendrier,0,13,utilitaire,
+01/12/2021,7,20,Jodel,0,13,reseaux sociaux,
+01/12/2021,7,20,Spotify,0,10,divertissement,
+01/12/2021,7,20,Messenger,0,4,reseaux sociaux,
+01/12/2021,7,20,Calculatrice,0,3,utilitaire,
+01/12/2021,7,20,LinkedIn,0,2,reseaux sociaux,
+01/12/2021,7,20,TV Time,0,2,divertissement,
+01/12/2021,7,20,Mail,0,1,utilitaire,
+01/12/2021,7,20,Discord,0,1,reseaux sociaux,
+01/12/2021,7,20,Messages,0,1,reseaux sociaux,
+01/12/2021,7,20,MyAnimeList,0,1,divertissement,
+02/12/2021,3,11,Facebook,0,48,reseaux sociaux,
+02/12/2021,3,11,Instagram,0,32,reseaux sociaux,
+02/12/2021,3,11,Youtube,0,24,divertissement,
+02/12/2021,3,11,Brawl Stars,0,14,jeux,
+02/12/2021,3,11,Snapchat,0,12,reseaux sociaux,
+02/12/2021,3,11,Discord,0,6,reseaux sociaux,
+02/12/2021,3,11,Jodel,0,5,reseaux sociaux,
+02/12/2021,3,11,Messenger,0,3,reseaux sociaux,
+02/12/2021,3,11,Safari,0,1,divertissement,
+02/12/2021,3,11,Spotify,0,1,divertissement,
+02/12/2021,3,11,Appareil photo,0,1,creativite,
+02/12/2021,3,11,Pinterest,0,1,reseaux sociaux,
+02/12/2021,3,11,WhatsApp,0,1,reseaux sociaux,
+02/12/2021,3,11,Mail,0,1,utilitaire,
+02/12/2021,3,11,Messages,0,1,reseaux sociaux,
+03/12/2021,3,55,Brawl Stars,1,2,jeux,
+03/12/2021,3,55,Youtube,0,50,divertissement,
+03/12/2021,3,55,Facebook,0,20,reseaux sociaux,
+03/12/2021,3,55,Snapchat,0,19,reseaux sociaux,
+03/12/2021,3,55,Instagram,0,16,reseaux sociaux,
+03/12/2021,3,55,Waze,0,14,voyage,
+03/12/2021,3,55,Messenger,0,4,reseaux sociaux,
+03/12/2021,3,55,Spotify,0,3,divertissement,
+03/12/2021,3,55,Safari,0,2,divertissement,
+03/12/2021,3,55,Mail,0,2,utilitaire,
+03/12/2021,3,55,Discord,0,2,reseaux sociaux,
+03/12/2021,3,55,SportEasy,0,1,divertissement,
+03/12/2021,3,55,Calendrier,0,1,utilitaire,
+04/12/2021,3,35,Instagram,0,54,reseaux sociaux,
+04/12/2021,3,35,Brawl Stars,0,38,jeux,
+04/12/2021,3,35,Facebook,0,25,reseaux sociaux,
+04/12/2021,3,35,Youtube,0,20,divertissement,
+04/12/2021,3,35,Snapchat,0,17,reseaux sociaux,
+04/12/2021,3,35,Calendrier,0,14,utilitaire,
+04/12/2021,3,35,Safari,0,10,divertissement,
+04/12/2021,3,35,AntiCovid,0,7,utilitaire,
+04/12/2021,3,35,Discord,0,2,reseaux sociaux,
+04/12/2021,3,35,Caf,0,2,utilitaire,
+04/12/2021,3,35,Messenger,0,1,reseaux sociaux,
+04/12/2021,3,35,Spotify,0,1,divertissement,
+05/12/2021,5,55,Brawl Stars,1,2,jeux,
+05/12/2021,5,55,Instagram,0,44,reseaux sociaux,
+05/12/2021,5,55,Facebook,0,34,reseaux sociaux,
+05/12/2021,5,55,Snapchat,0,29,reseaux sociaux,
+05/12/2021,5,55,Youtube,0,20,divertissement,
+05/12/2021,5,55,Twitch,0,17,divertissement,
+05/12/2021,5,55,Safari,0,10,divertissement,
+05/12/2021,5,55,Twitter,0,9,reseaux sociaux,
+05/12/2021,5,55,LinkedIn,0,5,reseaux sociaux,
+05/12/2021,5,55,Mail,0,5,utilitaire,
+05/12/2021,5,55,Messenger,0,3,reseaux sociaux,
+05/12/2021,5,55,Go Escape,0,3,jeux,
+05/12/2021,5,55,Waze,0,2,voyage,
+05/12/2021,5,55,Calendrier,0,2,utilitaire,
+05/12/2021,5,55,Uber Eats,0,2,achats,
+05/12/2021,5,55,Spotify,0,2,divertissement,
+05/12/2021,5,55,WhatsApp,0,1,reseaux sociaux,
+05/12/2021,5,55,Appareil photo,0,1,creativite,
+05/12/2021,5,55,SFR TV,0,1,divertissement,
+05/12/2021,5,55,MyAnimeList,0,1,divertissement,
+06/12/2021,5,36,Instagram,0,54,reseaux sociaux,
+06/12/2021,5,36,Brawl Stars,0,49,jeux,
+06/12/2021,5,36,Facebook,0,36,reseaux sociaux,
+06/12/2021,5,36,Appareil photo,0,30,creativite,
+06/12/2021,5,36,Youtube,0,26,divertissement,
+06/12/2021,5,36,Twitch,0,23,divertissement,
+06/12/2021,5,36,WhatsApp,0,17,reseaux sociaux,
+06/12/2021,5,36,Snapchat,0,17,reseaux sociaux,
+06/12/2021,5,36,Messenger,0,11,reseaux sociaux,
+06/12/2021,5,36,Jodel,0,10,reseaux sociaux,
+06/12/2021,5,36,Safari,0,5,divertissement,
+06/12/2021,5,36,Calendrier,0,4,utilitaire,
+06/12/2021,5,36,Discord,0,3,reseaux sociaux,
+06/12/2021,5,36,Mail,0,2,utilitaire,
+06/12/2021,5,36,LinkedIn,0,2,reseaux sociaux,
+06/12/2021,5,36,Caf,0,1,utilitaire,
+06/12/2021,5,36,Banxo,0,1,finance,
+07/12/2021,5,19,Safari,1,39,divertissement,Examen GCC
+07/12/2021,5,19,Instagram,1,0,reseaux sociaux,Examen GCC
+07/12/2021,5,19,Brawl Stars,1,0,jeux,Examen GCC
+07/12/2021,5,19,Facebook,0,21,reseaux sociaux,Examen GCC
+07/12/2021,5,19,Snapchat,0,19,reseaux sociaux,Examen GCC
+07/12/2021,5,19,Go Escape,0,12,jeux,Examen GCC
+07/12/2021,5,19,Spotify,0,11,divertissement,Examen GCC
+07/12/2021,5,19,Youtube,0,6,divertissement,Examen GCC
+07/12/2021,5,19,LinkedIn,0,5,reseaux sociaux,Examen GCC
+07/12/2021,5,19,Discord,0,3,reseaux sociaux,Examen GCC
+07/12/2021,5,19,Pinterest,0,2,reseaux sociaux,Examen GCC
+07/12/2021,5,19,Jodel,0,1,reseaux sociaux,Examen GCC
+07/12/2021,5,19,FlashScore,0,1,divertissement,Examen GCC
+07/12/2021,5,19,Messenger,0,1,reseaux sociaux,Examen GCC
+08/12/2021,5,18,Twitch,1,15,divertissement,
+08/12/2021,5,18,Brawl Stars,0,41,jeux,
+08/12/2021,5,18,Facebook,0,32,reseaux sociaux,
+08/12/2021,5,18,Reddit,0,28,reseaux sociaux,
+08/12/2021,5,18,Snapchat,0,18,reseaux sociaux,
+08/12/2021,5,18,Reglages,0,13,utilitaire,
+08/12/2021,5,18,Instagram,0,13,reseaux sociaux,
+08/12/2021,5,18,WhatsApp,0,11,reseaux sociaux,
+08/12/2021,5,18,Messenger,0,9,reseaux sociaux,
+08/12/2021,5,18,Twitter,0,7,reseaux sociaux,
+08/12/2021,5,18,Calculatrice,0,5,utilitaire,
+08/12/2021,5,18,Spotify,0,4,divertissement,
+08/12/2021,5,18,FlashScore,0,3,divertissement,
+08/12/2021,5,18,Discord,0,3,reseaux sociaux,
+08/12/2021,5,18,Calendrier,0,2,utilitaire,
+08/12/2021,5,18,Go Escape,0,1,jeux,
+08/12/2021,5,18,Appareil photo,0,1,creativite,
+08/12/2021,5,18,SportEasy,0,1,divertissement,
+08/12/2021,5,18,Messages,0,1,reseaux sociaux,
+08/12/2021,5,18,LinkedIn,0,1,reseaux sociaux,
+09/12/2021,3,53,Brawl Stars,0,47,jeux,
+09/12/2021,3,53,Facebook,0,39,reseaux sociaux,
+09/12/2021,3,53,Youtube,0,31,divertissement,
+09/12/2021,3,53,Snapchat,0,16,reseaux sociaux,
+09/12/2021,3,53,Twitch,0,15,divertissement,
+09/12/2021,3,53,Instagram,0,15,reseaux sociaux,
+09/12/2021,3,53,Mail,0,8,utilitaire,
+09/12/2021,3,53,Caf,0,3,utilitaire,
+09/12/2021,3,53,Appareil photo,0,2,creativite,
+09/12/2021,3,53,Messenger,0,2,reseaux sociaux,
+09/12/2021,3,53,Discord,0,1,reseaux sociaux,
+09/12/2021,3,53,Calendrier,0,1,utilitaire,
+09/12/2021,3,53,Spotify,0,1,divertissement,
+10/12/2021,6,46,Brawl Stars,1,22,jeux,DeadLine IA & co
+10/12/2021,6,46,Instagram,1,14,reseaux sociaux,DeadLine IA & co
+10/12/2021,6,46,Youtube,0,46,divertissement,DeadLine IA & co
+10/12/2021,6,46,Facebook,0,46,reseaux sociaux,DeadLine IA & co
+10/12/2021,6,46,Snapchat,0,31,reseaux sociaux,DeadLine IA & co
+10/12/2021,6,46,Twitch,0,25,divertissement,DeadLine IA & co
+10/12/2021,6,46,Discord,0,13,reseaux sociaux,DeadLine IA & co
+10/12/2021,6,46,Safari,0,9,divertissement,DeadLine IA & co
+10/12/2021,6,46,Spotify,0,6,divertissement,DeadLine IA & co
+10/12/2021,6,46,Jodel,0,5,reseaux sociaux,DeadLine IA & co
+10/12/2021,6,46,Calendrier,0,5,utilitaire,DeadLine IA & co
+10/12/2021,6,46,Waze,0,4,voyage,DeadLine IA & co
+10/12/2021,6,46,Messenger,0,3,reseaux sociaux,DeadLine IA & co
+10/12/2021,6,46,Caf,0,3,utilitaire,DeadLine IA & co
+10/12/2021,6,46,LinkedIn,0,3,reseaux sociaux,DeadLine IA & co
+10/12/2021,6,46,Plans,0,1,voyage,DeadLine IA & co
+11/12/2021,7,37,Twitch,1,48,divertissement,
+11/12/2021,7,37,Facebook,0,59,reseaux sociaux,
+11/12/2021,7,37,Twitter,0,56,reseaux sociaux,
+11/12/2021,7,37,Brawl Stars,0,55,jeux,
+11/12/2021,7,37,Waze,0,32,voyage,
+11/12/2021,7,37,Instagram,0,26,reseaux sociaux,
+11/12/2021,7,37,Youtube,0,20,divertissement,
+11/12/2021,7,37,Snapchat,0,17,reseaux sociaux,
+11/12/2021,7,37,Safari,0,9,divertissement,
+11/12/2021,7,37,Messenger,0,4,reseaux sociaux,
+11/12/2021,7,37,Quora,0,3,reseaux sociaux,
+11/12/2021,7,37,Spotify,0,3,divertissement,
+11/12/2021,7,37,Discord,0,2,reseaux sociaux,
+11/12/2021,7,37,LinkedIn,0,2,reseaux sociaux,
+11/12/2021,7,37,App Store,0,2,utilitaire,
+11/12/2021,7,37,Z Escape,0,1,jeux,
+11/12/2021,7,37,Horloge,0,1,utilitaire,
+11/12/2021,7,37,WhatsApp,0,1,reseaux sociaux,
+11/12/2021,7,37,Plans,0,1,voyage,
+11/12/2021,7,37,Go Escape,0,1,jeux,
+12/12/2021,8,53,Stone Miner,0,49,jeux,
+12/12/2021,8,53,Reddit,0,47,reseaux sociaux,
+12/12/2021,8,53,Instagram,0,44,reseaux sociaux,
+12/12/2021,8,53,Brawl Stars,0,37,jeux,
+12/12/2021,8,53,Facebook,0,36,reseaux sociaux,
+12/12/2021,8,53,Snapchat,0,34,reseaux sociaux,
+12/12/2021,8,53,Twitch,0,31,divertissement,
+12/12/2021,8,53,Changer and Drop,0,26,jeux,
+12/12/2021,8,53,Z Escape,0,25,jeux,
+12/12/2021,8,53,Twitter,0,20,reseaux sociaux,
+12/12/2021,8,53,Youtube,0,20,divertissement,
+12/12/2021,8,53,Safari,0,15,divertissement,
+12/12/2021,8,53,WhatsApp,0,5,reseaux sociaux,
+12/12/2021,8,53,Messenger,0,2,reseaux sociaux,
+12/12/2021,8,53,FlashScore,0,2,divertissement,
+12/12/2021,8,53,Spotify,0,1,divertissement,
+12/12/2021,8,53,Waze,0,1,voyage,
+12/12/2021,8,53,Discord,0,1,reseaux sociaux,
+13/12/2021,6,13,Stone Miner,1,21,jeux,Examen dyn de co
+13/12/2021,6,13,Facebook,1,3,reseaux sociaux,Examen dyn de co
+13/12/2021,6,13,Brawl Stars,0,39,jeux,Examen dyn de co
+13/12/2021,6,13,Twitter,0,36,reseaux sociaux,Examen dyn de co
+13/12/2021,6,13,Instagram,0,31,reseaux sociaux,Examen dyn de co
+13/12/2021,6,13,Snapchat,0,29,reseaux sociaux,Examen dyn de co
+13/12/2021,6,13,Safari,0,26,divertissement,Examen dyn de co
+13/12/2021,6,13,Youtube,0,24,divertissement,Examen dyn de co
+13/12/2021,6,13,Reddit,0,6,reseaux sociaux,Examen dyn de co
+13/12/2021,6,13,Spotify,0,5,divertissement,Examen dyn de co
+13/12/2021,6,13,Plans,0,2,voyage,Examen dyn de co
+13/12/2021,6,13,Discord,0,2,reseaux sociaux,Examen dyn de co
+13/12/2021,6,13,SportEasy,0,1,divertissement,Examen dyn de co
+13/12/2021,6,13,Messages,0,1,reseaux sociaux,Examen dyn de co
+14/12/2021,8,8,Facebook,2,9,reseaux sociaux,
+14/12/2021,8,8,Brawl Stars,1,28,jeux,
+14/12/2021,8,8,Reglages,1,16,utilitaire,
+14/12/2021,8,8,Instagram,0,35,reseaux sociaux,
+14/12/2021,8,8,Safari,0,26,divertissement,
+14/12/2021,8,8,Idle Mafia,0,23,jeux,
+14/12/2021,8,8,Snapchat,0,14,reseaux sociaux,
+14/12/2021,8,8,Stone Miner,0,13,jeux,
+14/12/2021,8,8,Youtube,0,12,divertissement,
+14/12/2021,8,8,Messenger,0,9,reseaux sociaux,
+14/12/2021,8,8,LinkedIn,0,5,reseaux sociaux,
+14/12/2021,8,8,Spotify,0,4,divertissement,
+14/12/2021,8,8,Messages,0,3,reseaux sociaux,
+14/12/2021,8,8,Twitter,0,2,reseaux sociaux,
+14/12/2021,8,8,WhatsApp,0,2,reseaux sociaux,
+14/12/2021,8,8,Discord,0,2,reseaux sociaux,
+14/12/2021,8,8,Mail,0,1,utilitaire,
+14/12/2021,8,8,SportEasy,0,1,divertissement,
+14/12/2021,8,8,Jodel,0,1,reseaux sociaux,
+15/12/2021,8,4,Safari,1,32,divertissement,
+15/12/2021,8,4,Facebook,1,4,reseaux sociaux,
+15/12/2021,8,4,Brawl Stars,1,2,jeux,
+15/12/2021,8,4,Instagram,0,46,reseaux sociaux,
+15/12/2021,8,4,Snapchat,0,41,reseaux sociaux,
+15/12/2021,8,4,Twitter,0,33,reseaux sociaux,
+15/12/2021,8,4,Twitch,0,27,divertissement,
+15/12/2021,8,4,Youtube,0,20,divertissement,
+15/12/2021,8,4,Messenger,0,16,reseaux sociaux,
+15/12/2021,8,4,Stone Miner,0,14,jeux,
+15/12/2021,8,4,Jodel,0,10,reseaux sociaux,
+15/12/2021,8,4,FlashScore,0,5,divertissement,
+15/12/2021,8,4,LinkedIn,0,4,reseaux sociaux,
+15/12/2021,8,4,Calendrier,0,4,utilitaire,
+15/12/2021,8,4,WhatsApp,0,1,reseaux sociaux,
+15/12/2021,8,4,Appareil photo,0,1,creativite,
+15/12/2021,8,4,SportEasy,0,1,divertissement,
+15/12/2021,8,4,Spotify,0,1,divertissement,
+15/12/2021,8,4,Mail,0,1,utilitaire,
+16/12/2021,8,56,Brawl Stars,1,41,jeux,
+16/12/2021,8,56,Idle Mafia,1,29,jeux,
+16/12/2021,8,56,Facebook,1,7,reseaux sociaux,
+16/12/2021,8,56,Reddit,0,48,reseaux sociaux,
+16/12/2021,8,56,Instagram,0,35,reseaux sociaux,
+16/12/2021,8,56,Youtube,0,34,divertissement,
+16/12/2021,8,56,Safari,0,27,divertissement,
+16/12/2021,8,56,Snapchat,0,24,reseaux sociaux,
+16/12/2021,8,56,Messenger,0,21,reseaux sociaux,
+16/12/2021,8,56,Twitter,0,13,reseaux sociaux,
+16/12/2021,8,56,Spotify,0,11,divertissement,
+16/12/2021,8,56,Jodel,0,6,reseaux sociaux,
+16/12/2021,8,56,Quora,0,6,reseaux sociaux,
+16/12/2021,8,56,App Store,0,5,utilitaire,
+16/12/2021,8,56,Shazam,0,2,divertissement,
+16/12/2021,8,56,Mail,0,1,utilitaire,
+16/12/2021,8,56,Discord,0,1,reseaux sociaux,
+16/12/2021,8,56,SportEasy,0,1,divertissement,
+17/12/2021,6,1,Facebook,1,4,reseaux sociaux,
+17/12/2021,6,1,Brawl Stars,0,46,jeux,
+17/12/2021,6,1,Idle Mafia,0,45,jeux,
+17/12/2021,6,1,Youtube,0,39,divertissement,
+17/12/2021,6,1,Spotify,0,23,divertissement,
+17/12/2021,6,1,Deliveroo,0,22,achats,
+17/12/2021,6,1,Instagram,0,17,reseaux sociaux,
+17/12/2021,6,1,Snapchat,0,15,reseaux sociaux,
+17/12/2021,6,1,Uber Eats,0,9,achats,
+17/12/2021,6,1,Jodel,0,8,reseaux sociaux,
+17/12/2021,6,1,WhatsApp,0,5,reseaux sociaux,
+17/12/2021,6,1,Messenger,0,5,reseaux sociaux,
+17/12/2021,6,1,Stone Miner,0,5,jeux,
+17/12/2021,6,1,Mail,0,4,utilitaire,
+17/12/2021,6,1,LinkedIn,0,3,reseaux sociaux,
+17/12/2021,6,1,Safari,0,2,divertissement,
+17/12/2021,6,1,Strava,0,2,divertissement,
+17/12/2021,6,1,Rome2rio,0,1,voyage,
+17/12/2021,6,1,SportEasy,0,1,divertissement,
+17/12/2021,6,1,Discord,0,1,reseaux sociaux,
+17/12/2021,6,1,Calendrier,0,1,utilitaire,
+18/12/2021,5,49,Youtube,1,1,divertissement,
+18/12/2021,5,49,Instagram,0,40,reseaux sociaux,
+18/12/2021,5,49,Safari,0,34,divertissement,
+18/12/2021,5,49,Snapchat,0,32,reseaux sociaux,
+18/12/2021,5,49,Brawl Stars,0,30,jeux,
+18/12/2021,5,49,Reddit,0,22,reseaux sociaux,
+18/12/2021,5,49,Facebook,0,18,reseaux sociaux,
+18/12/2021,5,49,Discord,0,11,reseaux sociaux,
+18/12/2021,5,49,Spotify,0,10,divertissement,
+18/12/2021,5,49,Waze,0,8,voyage,
+18/12/2021,5,49,Photos,0,8,creativite,
+18/12/2021,5,49,Twitter,0,5,reseaux sociaux,
+18/12/2021,5,49,Appareil photo,0,4,creativite,
+18/12/2021,5,49,WhatsApp,0,4,reseaux sociaux,
+18/12/2021,5,49,KeepSafe,0,3,creativite,
+18/12/2021,5,49,AntiCovid,0,2,utilitaire,
+18/12/2021,5,49,L'Equipe,0,1,divertissement,
+18/12/2021,5,49,Messenger,0,1,reseaux sociaux,
+19/12/2021,3,5,Youtube,0,41,divertissement,Match de foot
+19/12/2021,3,5,Snapchat,0,25,reseaux sociaux,Match de foot
+19/12/2021,3,5,Brawl Stars,0,21,jeux,Match de foot
+19/12/2021,3,5,Facebook,0,20,reseaux sociaux,Match de foot
+19/12/2021,3,5,Discord,0,7,reseaux sociaux,Match de foot
+19/12/2021,3,5,Instagram,0,5,reseaux sociaux,Match de foot
+19/12/2021,3,5,SportEasy,0,4,divertissement,Match de foot
+19/12/2021,3,5,FlashScore,0,4,divertissement,Match de foot
+19/12/2021,3,5,Messages,0,4,reseaux sociaux,Match de foot
+19/12/2021,3,5,Quora,0,3,reseaux sociaux,Match de foot
+19/12/2021,3,5,Spotify,0,2,divertissement,Match de foot
+19/12/2021,3,5,Twitter,0,2,reseaux sociaux,Match de foot
+19/12/2021,3,5,AntiCovid,0,1,utilitaire,Match de foot
+19/12/2021,3,5,Reglages,0,1,utilitaire,Match de foot
+20/12/2021,6,8,Facebook,1,13,reseaux sociaux,
+20/12/2021,6,8,Safari,1,6,divertissement,
+20/12/2021,6,8,Brawl Stars,0,55,jeux,
+20/12/2021,6,8,Youtube,0,55,divertissement,
+20/12/2021,6,8,Instagram,0,25,reseaux sociaux,
+20/12/2021,6,8,Snapchat,0,19,reseaux sociaux,
+20/12/2021,6,8,Twitter,0,14,reseaux sociaux,
+20/12/2021,6,8,Messages,0,10,reseaux sociaux,
+20/12/2021,6,8,Reglages,0,3,utilitaire,
+20/12/2021,6,8,Messenger,0,3,reseaux sociaux,
+20/12/2021,6,8,Discord,0,1,reseaux sociaux,
+20/12/2021,6,8,Spotify,0,1,divertissement,
+21/12/2021,5,13,Instagram,0,52,reseaux sociaux,
+21/12/2021,5,13,Safari,0,48,divertissement,
+21/12/2021,5,13,Brawl Stars,0,45,jeux,
+21/12/2021,5,13,Youtube,0,38,divertissement,
+21/12/2021,5,13,Twitter,0,29,reseaux sociaux,
+21/12/2021,5,13,Facebook,0,26,reseaux sociaux,
+21/12/2021,5,13,Calendrier,0,7,utilitaire,
+21/12/2021,5,13,LinkedIn,0,7,reseaux sociaux,
+21/12/2021,5,13,Telephone,0,7,utilitaire,
+21/12/2021,5,13,Spotify,0,6,divertissement,
+21/12/2021,5,13,Notes,0,4,utilitaire,
+21/12/2021,5,13,Twitch,0,4,divertissement,
+21/12/2021,5,13,Snapchat,0,3,reseaux sociaux,
+21/12/2021,5,13,Messenger,0,1,reseaux sociaux,
+21/12/2021,5,13,Mail,0,1,utilitaire,
+21/12/2021,5,13,SportEasy,0,1,divertissement,
+21/12/2021,5,13,Meteo,0,1,utilitaire,
+22/12/2021,5,48,Youtube,2,1,divertissement,
+22/12/2021,5,48,Twitter,0,42,reseaux sociaux,
+22/12/2021,5,48,Facebook,0,31,reseaux sociaux,
+22/12/2021,5,48,Instagram,0,29,reseaux sociaux,
+22/12/2021,5,48,Brawl Stars,0,24,jeux,
+22/12/2021,5,48,Safari,0,16,divertissement,
+22/12/2021,5,48,Snapchat,0,15,reseaux sociaux,
+22/12/2021,5,48,Twitch,0,9,divertissement,
+22/12/2021,5,48,WhatsApp,0,6,reseaux sociaux,
+22/12/2021,5,48,Messenger,0,5,reseaux sociaux,
+22/12/2021,5,48,Spotify,0,4,divertissement,
+22/12/2021,5,48,Reddit,0,2,reseaux sociaux,
+22/12/2021,5,48,LinkedIn,0,1,reseaux sociaux,
+22/12/2021,5,48,Photos,0,1,creativite,
+22/12/2021,5,48,Waze,0,1,voyage,
+23/12/2021,8,14,Youtube,2,7,divertissement,
+23/12/2021,8,14,Safari,0,53,divertissement,
+23/12/2021,8,14,Brawl Stars,0,42,jeux,
+23/12/2021,8,14,Instagram,0,40,reseaux sociaux,
+23/12/2021,8,14,Reglages,0,40,utilitaire,
+23/12/2021,8,14,Twitter,0,36,reseaux sociaux,
+23/12/2021,8,14,Facebook,0,29,reseaux sociaux,
+23/12/2021,8,14,Twitch,0,13,divertissement,
+23/12/2021,8,14,Caf,0,5,utilitaire,
+23/12/2021,8,14,Messenger,0,4,reseaux sociaux,
+23/12/2021,8,14,Appareil photo,0,1,creativite,
+23/12/2021,8,14,WhatsApp,0,1,reseaux sociaux,
+23/12/2021,8,14,FlashScore,0,1,divertissement,
+24/12/2021,5,2,Safari,1,4,divertissement,
+24/12/2021,5,2,Brawl Stars,0,59,jeux,
+24/12/2021,5,2,Instagram,0,30,reseaux sociaux,
+24/12/2021,5,2,Facebook,0,22,reseaux sociaux,
+24/12/2021,5,2,Twitter,0,22,reseaux sociaux,
+24/12/2021,5,2,WhatsApp,0,9,reseaux sociaux,
+24/12/2021,5,2,Youtube,0,8,divertissement,
+24/12/2021,5,2,SportEasy,0,5,divertissement,
+24/12/2021,5,2,Reglages,0,2,utilitaire,
+25/12/2021,6,12,Youtube,2,6,divertissement,
+25/12/2021,6,12,Instagram,0,44,reseaux sociaux,
+25/12/2021,6,12,Twitter,0,42,reseaux sociaux,
+25/12/2021,6,12,Brawl Stars,0,23,jeux,
+25/12/2021,6,12,Facebook,0,23,reseaux sociaux,
+25/12/2021,6,12,Twitch,0,10,divertissement,
+25/12/2021,6,12,Safari,0,8,divertissement,
+25/12/2021,6,12,Photos,0,7,creativite,
+25/12/2021,6,12,Appareil photo,0,1,creativite,
+25/12/2021,6,12,FlashScore,0,1,divertissement,
+25/12/2021,6,12,Plans,0,1,voyage,
+26/12/2021,6,10,Youtube,1,42,divertissement,
+26/12/2021,6,10,Safari,1,1,divertissement,
+26/12/2021,6,10,Twitter,0,49,reseaux sociaux,
+26/12/2021,6,10,Instagram,0,37,reseaux sociaux,
+26/12/2021,6,10,Brawl Stars,0,36,jeux,
+26/12/2021,6,10,Facebook,0,4,reseaux sociaux,
+26/12/2021,6,10,Discord,0,3,reseaux sociaux,
+26/12/2021,6,10,Reglages,0,3,utilitaire,
+26/12/2021,6,10,Spotify,0,2,divertissement,
+26/12/2021,6,10,Plans,0,1,voyage,
+26/12/2021,6,10,WhatsApp,0,1,reseaux sociaux,
+27/12/2021,7,34,Twitch,1,57,divertissement,
+27/12/2021,7,34,Twitter,1,14,reseaux sociaux,
+27/12/2021,7,34,Safari,1,5,divertissement,
+27/12/2021,7,34,Instagram,0,44,reseaux sociaux,
+27/12/2021,7,34,Youtube,0,38,divertissement,
+27/12/2021,7,34,Facebook,0,38,reseaux sociaux,
+27/12/2021,7,34,Brawl Stars,0,30,jeux,
+27/12/2021,7,34,Photos,0,9,creativite,
+27/12/2021,7,34,Messenger,0,1,reseaux sociaux,
+28/12/2021,5,39,Youtube,1,58,divertissement,
+28/12/2021,5,39,Instagram,0,56,reseaux sociaux,
+28/12/2021,5,39,Brawl Stars,0,45,jeux,
+28/12/2021,5,39,Twitter,0,37,reseaux sociaux,
+28/12/2021,5,39,Appareil photo,0,16,creativite,
+28/12/2021,5,39,Reddit,0,13,reseaux sociaux,
+28/12/2021,5,39,Safari,0,10,divertissement,
+28/12/2021,5,39,LinkedIn,0,4,reseaux sociaux,
+28/12/2021,5,39,Facebook,0,3,reseaux sociaux,
+28/12/2021,5,39,Photos,0,2,creativite,
+28/12/2021,5,39,Doctolib,0,2,utilitaire,
+28/12/2021,5,39,Spotify,0,1,divertissement,
+29/12/2021,6,15,Safari,2,54,divertissement,
+29/12/2021,6,15,Reddit,0,35,reseaux sociaux,
+29/12/2021,6,15,Appareil photo,0,32,creativite,
+29/12/2021,6,15,Brawl Stars,0,28,jeux,
+29/12/2021,6,15,Instagram,0,21,reseaux sociaux,
+29/12/2021,6,15,Twitter,0,11,reseaux sociaux,
+29/12/2021,6,15,Facebook,0,10,reseaux sociaux,
+29/12/2021,6,15,Youtube,0,7,divertissement,
+29/12/2021,6,15,Spotify,0,3,divertissement,
+29/12/2021,6,15,AntiCovid,0,1,utilitaire,
+30/12/2021,2,30,Twitter,0,21,reseaux sociaux,Aide demenagement + depart nouvel an
+30/12/2021,2,30,Instagram,0,15,reseaux sociaux,Aide demenagement + depart nouvel an
+30/12/2021,2,30,Safari,0,9,divertissement,Aide demenagement + depart nouvel an
+30/12/2021,2,30,Youtube,0,7,divertissement,Aide demenagement + depart nouvel an
+30/12/2021,2,30,Facebook,0,4,reseaux sociaux,Aide demenagement + depart nouvel an
+30/12/2021,2,30,Spotify,0,3,divertissement,Aide demenagement + depart nouvel an
+30/12/2021,2,30,LinkedIn,0,2,reseaux sociaux,Aide demenagement + depart nouvel an
+30/12/2021,2,30,Messages,0,2,reseaux sociaux,Aide demenagement + depart nouvel an
+30/12/2021,2,30,Plans,0,2,voyage,Aide demenagement + depart nouvel an
+31/12/2021,5,29,Twitter,0,44,reseaux sociaux,Nouvel an
+31/12/2021,5,29,Safari,0,36,divertissement,Nouvel an
+31/12/2021,5,29,Instagram,0,19,reseaux sociaux,Nouvel an
+31/12/2021,5,29,Brawl Stars,0,18,jeux,Nouvel an
+31/12/2021,5,29,Appareil photo,0,7,creativite,Nouvel an
+31/12/2021,5,29,Plans,0,5,voyage,Nouvel an
+31/12/2021,5,29,Notes,0,5,utilitaire,Nouvel an
+31/12/2021,5,29,Youtube,0,4,divertissement,Nouvel an
+31/12/2021,5,29,Messages,0,4,reseaux sociaux,Nouvel an
+31/12/2021,5,29,Drive,0,3,utilitaire,Nouvel an
+31/12/2021,5,29,Reddit,0,3,reseaux sociaux,Nouvel an
+31/12/2021,5,29,Discord,0,3,reseaux sociaux,Nouvel an
+31/12/2021,5,29,Facebook,0,3,reseaux sociaux,Nouvel an
+31/12/2021,5,29,WhatsApp,0,2,reseaux sociaux,Nouvel an
+31/12/2021,5,29,Spotify,0,2,divertissement,Nouvel an
+31/12/2021,5,29,Twitch,0,1,divertissement,Nouvel an
+31/12/2021,5,29,Photos,0,1,creativite,Nouvel an
+01/01/2022,3,58,Instagram,0,21,reseaux sociaux,Nouvel an
+01/01/2022,3,58,Appareil photo,0,19,creativite,Nouvel an
+01/01/2022,3,58,Twitter,0,19,reseaux sociaux,Nouvel an
+01/01/2022,3,58,Plans,0,5,voyage,Nouvel an
+01/01/2022,3,58,Youtube,0,4,divertissement,Nouvel an
+01/01/2022,3,58,Messenger,0,4,reseaux sociaux,Nouvel an
+01/01/2022,3,58,AntiCovid,0,3,utilitaire,Nouvel an
+01/01/2022,3,58,Facebook,0,3,reseaux sociaux,Nouvel an
+01/01/2022,3,58,WhatsApp,0,2,reseaux sociaux,Nouvel an
+01/01/2022,3,58,Safari,0,2,divertissement,Nouvel an
+01/01/2022,3,58,Reglages,0,1,utilitaire,Nouvel an
+01/01/2022,3,58,SportEasy,0,1,divertissement,Nouvel an
+02/01/2022,4,54,Facebook,0,31,reseaux sociaux,Nouvel an
+02/01/2022,4,54,Youtube,0,31,divertissement,Nouvel an
+02/01/2022,4,54,SFR TV,0,28,divertissement,Nouvel an
+02/01/2022,4,54,Twitter,0,26,reseaux sociaux,Nouvel an
+02/01/2022,4,54,Instagram,0,25,reseaux sociaux,Nouvel an
+02/01/2022,4,54,Messenger,0,13,reseaux sociaux,Nouvel an
+02/01/2022,4,54,Waze,0,13,voyage,Nouvel an
+02/01/2022,4,54,Mcdo,0,7,utilitaire,Nouvel an
+02/01/2022,4,54,Photos,0,6,creativite,Nouvel an
+02/01/2022,4,54,Spotify,0,3,divertissement,Nouvel an
+02/01/2022,4,54,FlashScore,0,3,divertissement,Nouvel an
+02/01/2022,4,54,Discord,0,3,reseaux sociaux,Nouvel an
+02/01/2022,4,54,Messages,0,2,reseaux sociaux,Nouvel an
+02/01/2022,4,54,Appareil photo,0,2,creativite,Nouvel an
+02/01/2022,4,54,Shazam,0,2,divertissement,Nouvel an
+02/01/2022,4,54,Plans,0,1,voyage,Nouvel an
+02/01/2022,4,54,WhatsApp,0,1,reseaux sociaux,Nouvel an
+02/01/2022,4,54,Safari,0,1,divertissement,Nouvel an
+03/01/2022,6,53,Youtube,2,31,divertissement,Examen IA & Cognition
+03/01/2022,6,53,Brawl Stars,0,50,jeux,Examen IA & Cognition
+03/01/2022,6,53,Instagram,0,49,reseaux sociaux,Examen IA & Cognition
+03/01/2022,6,53,Facebook,0,19,reseaux sociaux,Examen IA & Cognition
+03/01/2022,6,53,LinkedIn,0,7,reseaux sociaux,Examen IA & Cognition
+03/01/2022,6,53,Calendrier,0,5,utilitaire,Examen IA & Cognition
+03/01/2022,6,53,Safari,0,6,divertissement,Examen IA & Cognition
+03/01/2022,6,53,Discord,0,4,reseaux sociaux,Examen IA & Cognition
+03/01/2022,6,53,Spotify,0,3,divertissement,Examen IA & Cognition
+03/01/2022,6,53,Mail,0,3,utilitaire,Examen IA & Cognition
+03/01/2022,6,53,Messenger,0,3,reseaux sociaux,Examen IA & Cognition
+04/01/2022,9,27,Safari,1,6,divertissement,
+04/01/2022,9,27,Instagram,0,53,reseaux sociaux,
+04/01/2022,9,27,Youtube,0,21,divertissement,
+04/01/2022,9,27,Brawl Stars,0,21,jeux,
+04/01/2022,9,27,Spotify,0,14,divertissement,
+04/01/2022,9,27,Photos,0,14,creativite,
+04/01/2022,9,27,Reglages,0,13,utilitaire,
+04/01/2022,9,27,Messenger,0,11,reseaux sociaux,
+04/01/2022,9,27,Facebook,0,11,reseaux sociaux,
+04/01/2022,9,27,TV Time,0,6,divertissement,
+04/01/2022,9,27,Mail,0,5,utilitaire,
+04/01/2022,9,27,Plans,0,4,voyage,
+04/01/2022,9,27,Discord,0,4,reseaux sociaux,
+04/01/2022,9,27,App Store,0,3,utilitaire,
+04/01/2022,9,27,Banxo,0,2,finance,
+04/01/2022,9,27,WhatsApp,0,1,reseaux sociaux,
+04/01/2022,9,27,Calendrier,0,1,utilitaire,
+04/01/2022,9,27,TCL,0,1,voyage,
+05/01/2022,12,17,Instagram,1,9,reseaux sociaux,Mise à jour de téléphone
+05/01/2022,12,17,Youtube,0,56,divertissement,Mise à jour de téléphone
+05/01/2022,12,17,Brawl Stars,0,39,jeux,Mise à jour de téléphone
+05/01/2022,12,17,Twitter,0,23,reseaux sociaux,Mise à jour de téléphone
+05/01/2022,12,17,Safari,0,19,divertissement,Mise à jour de téléphone
+05/01/2022,12,17,Nike Training,0,15,divertissement,Mise à jour de téléphone
+05/01/2022,12,17,Mail,0,9,utilitaire,Mise à jour de téléphone
+05/01/2022,12,17,Spotify,0,7,divertissement,Mise à jour de téléphone
+05/01/2022,12,17,Facebook,0,7,reseaux sociaux,Mise à jour de téléphone
+05/01/2022,12,17,Authenticator,0,6,utilitaire,Mise à jour de téléphone
+05/01/2022,12,17,Reglages,0,4,utilitaire,Mise à jour de téléphone
+05/01/2022,12,17,Messenger,0,3,reseaux sociaux,Mise à jour de téléphone
+05/01/2022,12,17,Discord,0,2,reseaux sociaux,Mise à jour de téléphone
+05/01/2022,12,17,App Store,0,1,utilitaire,Mise à jour de téléphone
+05/01/2022,12,17,Calendrier,0,1,utilitaire,Mise à jour de téléphone
+05/01/2022,12,17,Banxo,0,1,finance,Mise à jour de téléphone
+05/01/2022,12,17,LinkedIn,0,1,reseaux sociaux,Mise à jour de téléphone
