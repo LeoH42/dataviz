@@ -1,0 +1,263 @@
+#panels {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6%;
+}
+
+#identity {
+    box-shadow: 0 5px 5px 5px #e1e1e1;
+    max-width: 350px;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+.bg {
+    animation:slide 3s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, #EEEEEE 50%, #393E46 50%);
+    bottom:0;
+    left:-50%;
+    opacity:.5;
+    position:fixed;
+    right:-50%;
+    top:0;
+    z-index:-1;
+}
+
+.bg2 {
+    animation-direction:alternate-reverse;
+    animation-duration:4s;
+}
+
+.bg3 {
+    animation-duration:5s;
+}
+
+.masthead{
+    border-radius: 40px;
+    padding: 50px;
+    border :solid;
+    background-color: #FFFBF9 ;
+    margin-bottom: 1.5rem;
+}
+
+.footer{
+    border-radius: 40px;
+    padding: 20px;
+    border :solid;
+    background-color: #FFFBF9 ;
+    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+}
+
+.content h1 {
+    color: #393E46;
+    font-family: 'Raleway',sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 72px; margin: 0 0 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.content p{
+    color: #000000;
+    font-family: 'Raleway',sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 32px;
+    margin: 0 0 24px;
+}
+
+#identity img {
+    width: 50%;
+    border: 5px solid #e1e1e1;
+    border-radius: 50%;
+}
+
+table, table tr td {
+    width: 290px;
+    margin: 0 auto;
+    border: 1px solid #e1e1e1;
+    text-align: left;
+}
+
+#rightPanel {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-right: 2%;
+}
+
+#leftPanel {
+    margin-left: 2%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+}
+
+#rightPanel > div {
+    margin-bottom: 5%;
+}
+
+#chartVisu {
+    border: 1px solid;
+}
+
+div.tooltip {
+    color: #222;
+    background-color: #fff;
+    padding: .5em;
+    text-shadow: #f5f5f5 0 1px 0;
+    border: 1px solid;
+    border-radius: 2px;
+    opacity: 0.9;
+    position: absolute;
+    z-index: 4;
+}
+
+.axis {
+    font-size: 14px;
+}
+
+
+.hidden {
+    display: none;
+}
+
+#phone {
+    position: absolute;
+    z-index: 0;
+}
+
+#svg {
+    position: relative;
+}
+
+#phoneDate {
+    color: white;
+    position: absolute;
+    z-index: 10;
+    margin-top: 82px;
+    margin-left: 40px;
+}
+
+#phoneTime {
+    color: white;
+    position: absolute;
+    z-index: 10;
+    margin-top: 82px;
+    margin-left: 200px;
+}
+
+.legend {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    overflow:auto;
+    width: fit-content;
+    border: solid 1px;
+    border-radius: 20px;
+    background-color: #EEEEEE;
+    padding-left: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.legend .legend-title {
+    text-align: left;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.legend ul {
+    margin: 0 0 5px;
+    padding: 0;
+    float: left;
+    list-style: none;
+    columns: 2;
+}
+
+.legend ul li {
+    list-style: none;
+    margin-left: 0;
+    line-height: 18px;
+    margin-bottom: 2px;
+}
+
+.legend ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 16px;
+    width: 30px;
+    margin-right: 5px;
+    margin-left: 0;
+    border: 1px solid #999;
+}
+
+.titre {
+     font-size: 4.25rem;
+      text-transform: uppercase;
+      letter-spacing: normal;
+      font-weight: 700;
+      font-family: "Roboto Condensed", sans-serif;
+      margin: 20px 0 0;
+}
+
+.texte {
+    font-size: 2rem;
+          text-transform: uppercase;
+          letter-spacing: normal;
+          font-weight: 700;
+          font-family: "Roboto Condensed", sans-serif;
+          margin: 20px 0 0;
+          padding : 20px;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding : 30px;
+}
+
+.section-1 {
+    margin-top:70px;
+    background : #82CEF9;
+    padding : 50px;
+}
+.section-2 {
+    background : white;
+    padding : 50px;
+}
+
+.section-3 {
+    background : #82CEF9;
+    padding : 50px;
+}
+
+.section-4 {
+    background : white;
+    padding : 50px;
+}
+.section-5 {
+    background : #82CEF9;
+    padding : 50px;
+}
+
+.section-titre {
+    background : #82CEF9;
+    padding : 50px;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+
+.center{
+    margin-top:30px;
+ background : white;
+ padding : 50px;
+}
+
+.foot{
+    background : #82CEF9;
+    padding : 50px;
+}
