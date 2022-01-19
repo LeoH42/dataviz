@@ -1,0 +1,161 @@
+jour,heures_totales,minutes_totales,applications,heures_application,minutes_application,categorie,Evenement
+08/12/2021,1,18,Maps,0,15,voyage,
+08/12/2021,1,18,App Usage,0,15,utilitaire,
+08/12/2021,1,18,Bien-être numérique,0,10,utilitaire,
+08/12/2021,1,18,Google Play Store,0,8,utilitaire,
+08/12/2021,1,18,Gestionnaire de fichiers,0,7,utilitaire,
+08/12/2021,1,18,Appareil photo,0,4,creativite,
+08/12/2021,1,18,Discord,0,4,reseaux sociaux,
+08/12/2021,1,18,Gmail,0,2,utilitaire,
+08/12/2021,1,18,Messages,0,2,utilitaire,
+08/12/2021,1,18,Agenda,0,1,utilitaire,
+08/12/2021,1,18,Téléphone,0,1,utilitaire,
+09/12/2021,1,13,Maps,0,26,voyage,rendu TP QL SMA
+09/12/2021,1,13,YouTube Vanced,0,24,divertissement,rendu TP QL SMA
+09/12/2021,1,13,App Usage,0,7,utilitaire,rendu TP QL SMA
+09/12/2021,1,13,Galerie,0,4,creativite,rendu TP QL SMA
+09/12/2021,1,13,Gmail,0,3,utilitaire,rendu TP QL SMA
+09/12/2021,1,13,Firefox,0,2,divertissement,rendu TP QL SMA
+09/12/2021,1,13,Messages,0,2,utilitaire,rendu TP QL SMA
+11/12/2021,0,13,Téléphone,0,4,utilitaire,
+11/12/2021,0,13,Firefox,0,4,divertissement,
+11/12/2021,0,13,Système IU,0,2,utilitaire,
+11/12/2021,0,13,Messages,0,1,utilitaire,
+12/12/2021,0,22,Galerie,0,4,creativite,rendu TP KD
+12/12/2021,0,22,Firefox,0,4,divertissement,rendu TP KD
+12/12/2021,0,22,Google Play Store,0,2,utilitaire,rendu TP KD
+12/12/2021,0,22,WhatsApp,0,2,reseaux sociaux,rendu TP KD
+12/12/2021,0,22,Maps,0,2,voyage,rendu TP KD
+12/12/2021,0,22,Messenger,0,1,reseaux sociaux,rendu TP KD
+12/12/2021,0,22,Gestionnaire de fichiers,0,1,utilitaire,rendu TP KD
+13/12/2021,1,17,Maps,0,39,voyage,Partiel KD
+13/12/2021,1,17,Horloge,0,14,utilitaire,Partiel KD
+13/12/2021,1,17,Téléphone,0,11,utilitaire,Partiel KD
+13/12/2021,1,17,Agenda,0,4,utilitaire,Partiel KD
+13/12/2021,1,17,Messenger,0,2,reseaux sociaux,Partiel KD
+13/12/2021,1,17,Firefox,0,2,divertissement,Partiel KD
+13/12/2021,1,17,Contacts,0,1,utilitaire,Partiel KD
+13/12/2021,1,17,WhatsApp,0,1,reseaux sociaux,Partiel KD
+14/12/2021,2,23,Messenger,0,50,reseaux sociaux,
+14/12/2021,2,23,Maps,0,43,voyage,
+14/12/2021,2,23,Firefox,0,22,divertissement,
+14/12/2021,2,23,Horloge,0,12,utilitaire,
+14/12/2021,2,23,WhatsApp,0,3,reseaux sociaux,
+14/12/2021,2,23,Discord,0,2,reseaux sociaux,
+14/12/2021,2,23,LinkedIn,0,2,reseaux sociaux,
+14/12/2021,2,23,Messages,0,2,utilitaire,
+14/12/2021,2,23,Gmail,0,1,utilitaire,
+14/12/2021,2,23,Agenda,0,1,utilitaire,
+14/12/2021,2,23,Système IU,0,1,utilitaire,
+16/12/2021,0,17,Messenger,0,8,reseaux sociaux,
+16/12/2021,0,17,Banxo,0,4,finance,
+16/12/2021,0,17,Gmail,0,1,utilitaire,
+16/12/2021,0,17,Agenda,0,1,utilitaire,
+17/12/2021,0,44,Horloge,0,31,utilitaire,
+17/12/2021,0,44,Téléphone,0,3,utilitaire,
+17/12/2021,0,44,YouTube Vanced,0,3,divertissement,
+17/12/2021,0,44,Messenger,0,2,reseaux sociaux,
+17/12/2021,0,44,Messages,0,1,utilitaire,
+17/12/2021,0,44,Gmail,0,1,utilitaire,
+18/12/2021,1,8,Téléphone,0,41,utilitaire,1er jour vacance
+18/12/2021,1,8,Gmail,0,10,utilitaire,1er jour vacance
+18/12/2021,1,8,Firefox,0,9,divertissement,1er jour vacance
+18/12/2021,1,8,Banxo,0,2,finance,1er jour vacance
+18/12/2021,1,8,WhatsApp,0,2,reseaux sociaux,1er jour vacance
+18/12/2021,1,8,Notes,0,1,utilitaire,1er jour vacance
+20/12/2021,0,33,Messenger,0,17,reseaux sociaux,
+20/12/2021,0,33,Firefox,0,3,divertissement,
+20/12/2021,0,33,Téléphone,0,3,utilitaire,
+20/12/2021,0,33,Messages,0,2,utilitaire,
+20/12/2021,0,33,Appareil photo,0,2,creativite,
+20/12/2021,0,33,Gmail,0,2,utilitaire,
+21/12/2021,2,19,Maps,1,22,voyage,deplacement Alpes
+21/12/2021,2,19,YouTube Vanced,0,38,divertissement,deplacement Alpes
+21/12/2021,2,19,Messenger,0,11,reseaux sociaux,deplacement Alpes
+21/12/2021,2,19,Messages,0,2,utilitaire,deplacement Alpes
+21/12/2021,2,19,Gmail,0,1,utilitaire,deplacement Alpes
+21/12/2021,2,19,AntiCovid,0,1,utilitaire,deplacement Alpes
+22/12/2021,3,6,Maps,1,58,voyage,journee ski
+22/12/2021,3,6,YouTube Vanced,1,1,divertissement,journee ski
+22/12/2021,3,6,Gmail,0,4,utilitaire,journee ski
+22/12/2021,3,6,Téléphone,0,1,utilitaire,journee ski
+23/12/2021,1,59,Maps,1,30,voyage,retour Alpes
+23/12/2021,1,59,Messages,0,10,utilitaire,retour Alpes
+23/12/2021,1,59,Messenger,0,9,reseaux sociaux,retour Alpes
+23/12/2021,1,59,Discord,0,2,reseaux sociaux,retour Alpes
+23/12/2021,1,59,Firefox,0,1,divertissement,retour Alpes
+23/12/2021,1,59,LinkedIn,0,1,reseaux sociaux,retour Alpes
+24/12/2021,0,6,Google Play Store,0,3,utilitaire,
+24/12/2021,0,6,Messenger,0,2,reseaux sociaux,
+25/12/2021,0,14,Messenger,0,7,reseaux sociaux,noel
+25/12/2021,0,14,Messages,0,5,utilitaire,noel
+26/12/2021,0,55,Messenger,0,25,reseaux sociaux,
+26/12/2021,0,55,Messages,0,14,utilitaire,
+26/12/2021,0,55,WhatsApp,0,5,reseaux sociaux,
+26/12/2021,0,55,YouTube Vanced,0,4,divertissement,
+26/12/2021,0,55,Horloge,0,3,utilitaire,
+26/12/2021,0,55,Google,0,1,utilitaire,
+27/12/2021,3,9,Téléphone,1,33,utilitaire,
+27/12/2021,3,9,Firefox,0,51,divertissement,
+27/12/2021,3,9,WhatsApp,0,33,reseaux sociaux,
+27/12/2021,3,9,Messages,0,6,utilitaire,
+27/12/2021,3,9,Messenger,0,1,reseaux sociaux,
+27/12/2021,3,9,Horloge,0,1,utilitaire,
+27/12/2021,3,9,Galerie,0,1,creativite,
+28/12/2021,2,1,Firefox,0,54,divertissement,deplacement en Avignon
+28/12/2021,2,1,Horloge,0,22,utilitaire,deplacement en Avignon
+28/12/2021,2,1,YouTube Vanced,0,10,divertissement,deplacement en Avignon
+28/12/2021,2,1,Messenger,0,8,reseaux sociaux,deplacement en Avignon
+28/12/2021,2,1,Maps,0,7,voyage,deplacement en Avignon
+28/12/2021,2,1,WhatsApp,0,6,reseaux sociaux,deplacement en Avignon
+28/12/2021,2,1,Messages,0,6,utilitaire,deplacement en Avignon
+28/12/2021,2,1,Gmail,0,3,utilitaire,deplacement en Avignon
+29/12/2021,0,12,Messages,0,5,utilitaire,
+29/12/2021,0,12,Messenger,0,2,reseaux sociaux,
+29/12/2021,0,12,WhatsApp,0,2,reseaux sociaux,
+29/12/2021,0,12,Téléphone,0,1,utilitaire,
+30/12/2021,0,26,Citymapper,0,12,voyage,
+30/12/2021,0,26,Messages,0,6,utilitaire,
+30/12/2021,0,26,Messenger,0,4,reseaux sociaux,
+30/12/2021,0,26,WhatsApp,0,1,reseaux sociaux,
+31/12/2021,0,57,YouTube Vanced,0,15,divertissement,reveillon
+31/12/2021,0,57,Firefox,0,12,divertissement,reveillon
+31/12/2021,0,57,Messenger,0,7,reseaux sociaux,reveillon
+31/12/2021,0,57,Messages,0,6,utilitaire,reveillon
+31/12/2021,0,57,WhatsApp,0,6,reseaux sociaux,reveillon
+31/12/2021,0,57,LinkedIn,0,5,reseaux sociaux,reveillon
+31/12/2021,0,57,Téléphone,0,1,utilitaire,reveillon
+01/01/2022,4,19,Maps,2,59,voyage,retour d'Avignon
+01/01/2022,4,19,YouTube Vanced,0,51,divertissement,retour d'Avignon
+01/01/2022,4,19,Messenger,0,18,reseaux sociaux,retour d'Avignon
+01/01/2022,4,19,Téléphone,0,4,utilitaire,retour d'Avignon
+01/01/2022,4,19,Contacts,0,1,utilitaire,retour d'Avignon
+01/01/2022,4,19,Gmail,0,1,utilitaire,retour d'Avignon
+02/01/2022,0,33,Messenger,0,25,reseaux sociaux,
+02/01/2022,0,33,WhatsApp,0,1,reseaux sociaux,
+02/01/2022,0,33,Agenda,0,1,utilitaire,
+03/01/2022,1,29,Maps,0,50,voyage,partiel Cog.IA
+03/01/2022,1,29,Messenger,0,9,reseaux sociaux,partiel Cog.IA
+03/01/2022,1,29,Gestionnaire de fichiers,0,4,utilitaire,partiel Cog.IA
+03/01/2022,1,29,Gmail,0,4,utilitaire,partiel Cog.IA
+03/01/2022,1,29,App Usage,0,3,utilitaire,partiel Cog.IA
+03/01/2022,1,29,Messages,0,2,utilitaire,partiel Cog.IA
+03/01/2022,1,29,Téléphone,0,2,utilitaire,partiel Cog.IA
+03/01/2022,1,29,PayByPhone,0,2,achat,partiel Cog.IA
+03/01/2022,1,29,meteoblue,0,1,utilitaire,partiel Cog.IA
+03/01/2022,1,29,YouTube Vanced,0,1,divertissement,partiel Cog.IA
+03/01/2022,1,29,Fichiers,0,1,utilitaire,partiel Cog.IA
+03/01/2022,1,29,Citymapper,0,1,voyage,partiel Cog.IA
+04/01/2022,0,33,Messenger,0,13,reseaux sociaux,
+04/01/2022,0,33,Firefox,0,8,divertissement,
+04/01/2022,0,33,Messages,0,2,utilitaire,
+04/01/2022,0,33,Gmail,0,2,utilitaire,
+04/01/2022,0,33,Discord,0,2,reseaux sociaux,
+04/01/2022,0,33,Agenda,0,2,utilitaire,
+04/01/2022,0,33,LinkedIn,0,1,reseaux sociaux,
+05/01/2022,0,43,Messages,0,15,utilitaire,
+05/01/2022,0,43,Téléphone,0,15,utilitaire,
+05/01/2022,0,43,Messenger,0,4,reseaux sociaux,
+05/01/2022,0,43,Contacts,0,3,utilitaire,
+05/01/2022,0,43,Gmail,0,3,utilitaire,
+05/01/2022,0,43,Discord,0,2,reseaux sociaux,

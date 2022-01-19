@@ -12,7 +12,8 @@ let colors = {
     "Voyage": '#75EDB8',
     "Creativite": '#89EE4B',
     "Achats": '#AD4FE8',
-    "Finance": '#D5AB61'
+    "Finance": '#D5AB61',
+    "Autre": '#8a3111'
 };
 
 /** Pour les catégories, il faudrait potentiellement ajouter celles qui manquent. On suit les mêmes que le téléphone ?**/
@@ -192,10 +193,11 @@ function drawPhone(val, day) {
         .attr("font-size", "15px")
         .attr("fill", "white");
 }
+
 function handleOpacity(d) {
     d3.select("#chartVisu").selectAll("rect")
                     .filter(function(rect) {
-                            console.log(rect.data)
+                            // console.log(rect.data)
                             if(d.data.date == rect.data.date)
                                 return 0;
                             return 1;
@@ -209,6 +211,7 @@ function handleOpacity(d) {
                     })
                     .attr("opacity", 1)
 }
+
 function drawChart(data) {
     d3.select("#panels #rightPanel #chartVisu").selectAll('*').remove();
 
@@ -323,8 +326,7 @@ function update(newMembers) {
     user = newMembers;
     $('#img').attr('src', `data/avatars/${user}.png`)
     $('#name').text(user[0].toUpperCase() + user.slice(1));
-    listEvent = [];
-    $('#event').DataTable().clear();
+    clearData();
     processData();
 }
 
@@ -391,4 +393,11 @@ function catAndTimeForDay(day) {
 function convertToDate(dateString) {
     let d = dateString.split("/");
     return new Date(d[2] + '/' + d[1] + '/' + d[0]);
+}
+
+function clearData() {
+    listEvent = [];
+    $('#event').DataTable().clear();
+    dayAndCatTime = {};
+    dayAndTime = [];
 }

@@ -1,0 +1,551 @@
+jour,heures_totales,minutes_totales,applications,heures_application,minutes_application,categorie,Evenement
+22/11/2021,1,58,Facebook,0,46,Reseaux sociaux,DeadLine TP3 DataViz
+22/11/2021,1,58,Messenger,0,30,Reseaux sociaux,DeadLine TP3 DataViz
+22/11/2021,1,58,Instagram,0,18,Reseaux sociaux,DeadLine TP3 DataViz
+22/11/2021,1,58,Téléphone,0,8,Utilitaire,DeadLine TP3 DataViz
+22/11/2021,1,58,Chrome,0,4,Utilitaire,DeadLine TP3 DataViz
+22/11/2021,1,58,Parametres,0,2,Utilitaire,DeadLine TP3 DataViz
+22/11/2021,1,58,Discord,0,2,Autre,DeadLine TP3 DataViz
+22/11/2021,1,58,Messages,0,1,Utilitaire,DeadLine TP3 DataViz
+22/11/2021,1,58,Horloge,0,1,Utilitaire,DeadLine TP3 DataViz
+22/11/2021,1,58,WhatsApp,0,1,Reseaux sociaux,DeadLine TP3 DataViz
+23/11/2021,3,45,Facebook,1,25,Reseaux sociaux,Examen SMA
+23/11/2021,3,45,Téléphone,0,32,Utilitaire,Examen SMA
+23/11/2021,3,45,Messenger,0,29,Reseaux sociaux,Examen SMA
+23/11/2021,3,45,Instagram,0,23,Reseaux sociaux,Examen SMA
+23/11/2021,3,45,Discord,0,16,Autre,Examen SMA
+23/11/2021,3,45,Messages,0,11,Utilitaire,Examen SMA
+23/11/2021,3,45,Parametres,0,9,Utilitaire,Examen SMA
+23/11/2021,3,45,Snapchat,0,9,Reseaux sociaux,Examen SMA
+23/11/2021,3,45,WhatsApp,0,2,Reseaux sociaux,Examen SMA
+23/11/2021,3,45,Chrome,0,2,Utilitaire,Examen SMA
+23/11/2021,3,45,Geev,0,2,Divertissement,Examen SMA
+23/11/2021,3,45,Gmail,0,2,Utilitaire,Examen SMA
+23/11/2021,3,45,Ryanair,0,1,Voyage,Examen SMA
+23/11/2021,3,45,Play Store,0,1,Divertissement,Examen SMA
+24/11/2021,5,22,Facebook,2,7,Reseaux sociaux,
+24/11/2021,5,22,Discord,1,4,Autre,
+24/11/2021,5,22,Horloge,0,47,Utilitaire,
+24/11/2021,5,22,Instagram,0,40,Reseaux sociaux,
+24/11/2021,5,22,Messages,0,12,Utilitaire,
+24/11/2021,5,22,Chrome,0,9,Utilitaire,
+24/11/2021,5,22,Téléphone,0,8,Utilitaire,
+24/11/2021,5,22,Messenger,0,6,Reseaux sociaux,
+24/11/2021,5,22,Maps,0,5,Voyage,
+24/11/2021,5,22,Drive,0,2,Utilitaire,
+24/11/2021,5,22,Snapchat,0,2,Reseaux sociaux,
+24/11/2021,5,22,Gmail,0,1,Utilitaire,
+25/11/2021,5,1,Facebook,2,39,Reseaux sociaux,
+25/11/2021,5,1,Horloge,0,41,Utilitaire,
+25/11/2021,5,1,Instagram,0,19,Reseaux sociaux,
+25/11/2021,5,1,Messenger,0,17,Reseaux sociaux,
+25/11/2021,5,1,Téléphone,0,15,Utilitaire,
+25/11/2021,5,1,WebexMeet,0,13,Utilitaire,
+25/11/2021,5,1,Snapchat,0,11,Reseaux sociaux,
+25/11/2021,5,1,Discord,0,7,Autre,
+25/11/2021,5,1,Chrome,0,4,Utilitaire,
+25/11/2021,5,1,Messages,0,3,Utilitaire,
+25/11/2021,5,1,Ryanair,0,2,Voyage,
+25/11/2021,5,1,Play Store,0,1,Divertissement,
+25/11/2021,5,1,Mes Comptes LCL,0,1,Finance,
+25/11/2021,5,1,Vélo'v,0,1,Voyage,
+26/11/2021,2,31,Facebook,1,15,Reseaux sociaux,Black Friday / Oral anglais
+26/11/2021,2,31,Instagram,1,0,Reseaux sociaux,Black Friday / Oral anglais
+26/11/2021,2,31,Snapchat,0,15,Reseaux sociaux,Black Friday / Oral anglais
+27/11/2021,0,31,Facebook,0,28,Reseaux sociaux,
+27/11/2021,0,31,Horloge,0,3,Utilitaire,
+28/11/2021,3,30,Facebook,2,0,Reseaux sociaux,
+28/11/2021,3,30,Instagram,0,30,Reseaux sociaux,
+28/11/2021,3,30,Messenger,1,0,Reseaux sociaux,
+29/11/2021,4,19,Facebook,2,7,Reseaux sociaux,
+29/11/2021,4,19,Instagram,0,47,Reseaux sociaux,
+29/11/2021,4,19,WhatsApp,0,14,Reseaux sociaux,
+29/11/2021,4,19,Chrome,0,13,Utilitaire,
+29/11/2021,4,19,Youtube,0,10,Divertissement,
+29/11/2021,4,19,Téléphone,0,9,Utilitaire,
+29/11/2021,4,19,Discord,0,9,Autre,
+29/11/2021,4,19,Mes Comptes LCL,0,6,Finance,
+29/11/2021,4,19,Horloge,0,6,Utilitaire,
+29/11/2021,4,19,Lidl Plus,0,3,Achats,
+29/11/2021,4,19,Gmail,0,1,Utilitaire,
+29/11/2021,4,19,Agenda,0,1,Utilitaire,
+29/11/2021,4,19,Messenger,0,1,Reseaux sociaux,
+29/11/2021,4,19,Lyf Pay,0,1,Achats,
+30/11/2021,3,44,Facebook,1,27,Reseaux sociaux,
+30/11/2021,3,44,Instagram,1,15,Reseaux sociaux,
+30/11/2021,3,44,Snapchat,0,17,Reseaux sociaux,
+30/11/2021,3,44,Chrome,0,14,Utilitaire,
+30/11/2021,3,44,Téléphone,0,12,Utilitaire,
+30/11/2021,3,44,Discord,0,6,Autre,
+30/11/2021,3,44,Too Good To Go,0,4,Achats,
+30/11/2021,3,44,Lyf Pay,0,2,Achats,
+01/12/2021,3,18,Facebook,1,9,Reseaux sociaux,
+01/12/2021,3,18,Messenger,0,31,Reseaux sociaux,
+01/12/2021,3,18,Chrome,0,30,Utilitaire,
+01/12/2021,3,18,Instagram,0,20,Reseaux sociaux,
+01/12/2021,3,18,Discord,0,18,Autre,
+01/12/2021,3,18,Youtube,0,14,Divertissement,
+01/12/2021,3,18,Téléphone,0,11,Utilitaire,
+01/12/2021,3,18,Messages,0,2,Utilitaire,
+01/12/2021,3,18,Mes Comptes LCL,0,1,Finance,
+01/12/2021,3,18,Appareil photo,0,1,Creativite,
+02/12/2021,2,51,Instagram,0,47,Reseaux sociaux,
+02/12/2021,2,51,Téléphone,0,37,Utilitaire,
+02/12/2021,2,51,Snapchat,0,28,Reseaux sociaux,
+02/12/2021,2,51,Facebook,0,23,Reseaux sociaux,
+02/12/2021,2,51,Messenger,0,15,Reseaux sociaux,
+02/12/2021,2,51,Discord,0,4,Autre,
+02/12/2021,2,51,Lyf Pay,0,4,Achats,
+02/12/2021,2,51,Chrome,0,3,Utilitaire,
+02/12/2021,2,51,Messages,0,3,Utilitaire,
+02/12/2021,2,51,Youtube,0,2,Divertissement,
+03/12/2021,3,36,Facebook,1,8,Reseaux sociaux,
+03/12/2021,3,36,Instagram,1,7,Reseaux sociaux,
+03/12/2021,3,36,Téléphone,0,13,Utilitaire,
+03/12/2021,3,36,Messenger,0,12,Reseaux sociaux,
+03/12/2021,3,36,Snapchat,0,9,Reseaux sociaux,
+03/12/2021,3,36,Uber Eats,0,8,Achats,
+03/12/2021,3,36,Discord,0,6,Autre,
+03/12/2021,3,36,Horloge,0,4,Utilitaire,
+03/12/2021,3,36,Sudoku,0,4,Jeux,
+03/12/2021,3,36,Messages,0,3,Utilitaire,
+03/12/2021,3,36,WhatsApp,0,2,Reseaux sociaux,
+03/12/2021,3,36,Appareil photo,0,1,Creativite,
+03/12/2021,3,36,Chrome,0,1,Utilitaire,
+04/12/2021,3,47,Facebook,2,20,Reseaux sociaux,
+04/12/2021,3,47,Instagram,1,0,Reseaux sociaux,
+04/12/2021,3,47,Téléphone,0,7,Utilitaire,
+04/12/2021,3,47,Snapchat,0,4,Reseaux sociaux,
+04/12/2021,3,47,Messenger,0,3,Reseaux sociaux,
+04/12/2021,3,47,Play Store,0,1,Divertissement,
+04/12/2021,3,47,Messages,0,1,Utilitaire,
+04/12/2021,3,47,Chrome,0,1,Utilitaire,
+04/12/2021,3,47,Mes Comptes LCL,0,1,Finance,
+04/12/2021,3,47,Discord,0,1,Autre,
+05/12/2021,1,7,Facebook,0,24,Reseaux sociaux,
+05/12/2021,1,7,Discord,0,20,Autre,
+05/12/2021,1,7,Messenger,0,14,Reseaux sociaux,
+05/12/2021,1,7,Téléphone,0,4,Utilitaire,
+05/12/2021,1,7,Horloge,0,3,Utilitaire,
+05/12/2021,1,7,Instagram,0,2,Reseaux sociaux,
+06/12/2021,1,44,Facebook,1,10,Reseaux sociaux,
+06/12/2021,1,44,Messages,0,10,Utilitaire,
+06/12/2021,1,44,Horloge,0,7,Utilitaire,
+06/12/2021,1,44,LinkedIn,0,5,Reseaux sociaux,
+06/12/2021,1,44,Snapchat,0,3,Reseaux sociaux,
+06/12/2021,1,44,Téléphone,0,3,Utilitaire,
+06/12/2021,1,44,Instagram,0,2,Reseaux sociaux,
+06/12/2021,1,44,WhatsApp,0,2,Reseaux sociaux,
+06/12/2021,1,44,Chrome,0,2,Utilitaire,
+06/12/2021,1,44,Messenger,0,1,Reseaux sociaux,
+06/12/2021,1,44,Discord,0,1,Autre,
+07/12/2021,2,9,Facebook,0,51,Reseaux sociaux,Examen GCC
+07/12/2021,2,9,Discord,0,38,Autre,Examen GCC
+07/12/2021,2,9,Instagram,0,12,Reseaux sociaux,Examen GCC
+07/12/2021,2,9,Snapchat,0,7,Reseaux sociaux,Examen GCC
+07/12/2021,2,9,Téléphone,0,5,Utilitaire,Examen GCC
+07/12/2021,2,9,Horloge,0,4,Utilitaire,Examen GCC
+07/12/2021,2,9,Docs,0,3,Utilitaire,Examen GCC
+07/12/2021,2,9,Drive,0,2,Utilitaire,Examen GCC
+07/12/2021,2,9,LinkedIn,0,1,Reseaux sociaux,Examen GCC
+07/12/2021,2,9,Lyf Pay,0,1,Achats,Examen GCC
+08/12/2021,3,37,Facebook,1,10,Reseaux sociaux,
+08/12/2021,3,37,Instagram,0,57,Reseaux sociaux,
+08/12/2021,3,37,Chrome,0,42,Utilitaire,
+08/12/2021,3,37,Téléphone,0,19,Utilitaire,
+08/12/2021,3,37,Discord,0,9,Autre,
+08/12/2021,3,37,Vélov,0,3,Autre,
+08/12/2021,3,37,Spotify,0,2,Divertissement,
+08/12/2021,3,37,Student Pop,0,2,Finance,
+08/12/2021,3,37,Shopmium,0,1,Autre,
+08/12/2021,3,37,LinkedIn,0,1,Reseaux sociaux,
+08/12/2021,3,37,Parametres,0,1,Utilitaire,
+09/12/2021,2,58,Instagram,1,8,Reseaux sociaux,Fete des lumieres
+09/12/2021,2,58,Facebook,1,4,Reseaux sociaux,Fete des lumieres
+09/12/2021,2,58,Messenger,0,9,Reseaux sociaux,Fete des lumieres
+09/12/2021,2,58,Téléphone,0,8,Utilitaire,Fete des lumieres
+09/12/2021,2,58,Horloge,0,6,Utilitaire,Fete des lumieres
+09/12/2021,2,58,Chrome,0,5,Utilitaire,Fete des lumieres
+09/12/2021,2,58,Discord,0,4,Autre,Fete des lumieres
+09/12/2021,2,58,Parametres,0,4,Utilitaire,Fete des lumieres
+09/12/2021,2,58,Spotify,0,2,Divertissement,Fete des lumieres
+09/12/2021,2,58,Too Good To Go,0,1,Achats,Fete des lumieres
+10/12/2021,2,59,Facebook,1,10,Reseaux sociaux,DeadLine IA & co
+10/12/2021,2,59,Discord,0,33,Autre,DeadLine IA & co
+10/12/2021,2,59,Instagram,0,29,Reseaux sociaux,DeadLine IA & co
+10/12/2021,2,59,Téléphone,0,10,Utilitaire,DeadLine IA & co
+10/12/2021,2,59,Too Good To Go,0,10,Achats,DeadLine IA & co
+10/12/2021,2,59,Photos,0,8,Creativite,DeadLine IA & co
+10/12/2021,2,59,Chrome,0,5,Utilitaire,DeadLine IA & co
+10/12/2021,2,59,Youtube,0,4,Divertissement,DeadLine IA & co
+10/12/2021,2,59,Messages,0,2,Utilitaire,DeadLine IA & co
+10/12/2021,2,59,Messenger,0,1,Reseaux sociaux,DeadLine IA & co
+10/12/2021,2,59,Mes Comptes LCL,0,1,Finance,DeadLine IA & co
+10/12/2021,2,59,Horloge,0,1,Utilitaire,DeadLine IA & co
+11/12/2021,3,41,Facebook,1,48,Reseaux sociaux,
+11/12/2021,3,41,Instagram,1,8,Reseaux sociaux,
+11/12/2021,3,41,Messenger,0,10,Reseaux sociaux,
+11/12/2021,3,41,Discord,0,8,Autre,
+11/12/2021,3,41,Téléphone,0,8,Utilitaire,
+11/12/2021,3,41,Chrome,0,7,Utilitaire,
+11/12/2021,3,41,Snapchat,0,4,Reseaux sociaux,
+11/12/2021,3,41,Messages,0,3,Utilitaire,
+11/12/2021,3,41,Maps,0,2,Voyage,
+11/12/2021,3,41,LinkedIn,0,2,Reseaux sociaux,
+11/12/2021,3,41,Horloge,0,2,Utilitaire,
+11/12/2021,3,41,Spotify,0,1,Divertissement,
+11/12/2021,3,41,Too Good To Go,0,1,Achats,
+12/12/2021,5,12,Facebook,4,30,Reseaux sociaux,
+12/12/2021,5,12,Instagram,0,15,Reseaux sociaux,
+12/12/2021,5,12,Téléphone,0,9,Utilitaire,
+12/12/2021,5,12,Chrome,0,5,Utilitaire,
+12/12/2021,5,12,Discord,0,4,Autre,
+12/12/2021,5,12,Youtube,0,4,Divertissement,
+12/12/2021,5,12,Horloge,0,1,Utilitaire,
+13/12/2021,2,27,Facebook,0,52,Reseaux sociaux,Examen dyn de co
+13/12/2021,2,27,Messenger,0,25,Reseaux sociaux,Examen dyn de co
+13/12/2021,2,27,Téléphone,0,21,Utilitaire,Examen dyn de co
+13/12/2021,2,27,Snapchat,0,8,Reseaux sociaux,Examen dyn de co
+13/12/2021,2,27,Instagram,0,8,Reseaux sociaux,Examen dyn de co
+13/12/2021,2,27,Youtube,0,8,Divertissement,Examen dyn de co
+13/12/2021,2,27,Discord,0,7,Autre,Examen dyn de co
+13/12/2021,2,27,Chrome,0,7,Utilitaire,Examen dyn de co
+13/12/2021,2,27,LinkedIn,0,4,Reseaux sociaux,Examen dyn de co
+13/12/2021,2,27,Appareil photo,0,2,Creativite,
+14/12/2021,4,9,Facebook,1,9,Reseaux sociaux,
+14/12/2021,4,9,Instagram,0,48,Reseaux sociaux,
+14/12/2021,4,9,Parametres,0,32,Utilitaire,
+14/12/2021,4,9,Snapchat,0,24,Reseaux sociaux,
+14/12/2021,4,9,Sudoku,0,22,Jeux,
+14/12/2021,4,9,Uber Eats,0,13,Achats,
+14/12/2021,4,9,Chrome,0,13,Utilitaire,
+14/12/2021,4,9,Discord,0,5,Autre,
+14/12/2021,4,9,Téléphone,0,4,Utilitaire,
+14/12/2021,4,9,App Usage,0,3,Creativite,
+14/12/2021,4,9,Gmail,0,2,Utilitaire,
+14/12/2021,4,9,Horloge,0,2,Utilitaire,
+14/12/2021,4,9,Gestionaire de Fichier,0,2,Utilitaire,
+14/12/2021,4,9,Deliveroo,0,2,Achats,
+14/12/2021,4,9,Too Good To Go,0,2,Achats,
+14/12/2021,4,9,WhatsApp,0,1,Reseaux sociaux,
+14/12/2021,4,9,Spotify,0,1,Divertissement,
+15/12/2021,3,14,Facebook,1,32,Reseaux sociaux,
+15/12/2021,3,14,Instagram,0,33,Reseaux sociaux,
+15/12/2021,3,14,Messenger,0,26,Reseaux sociaux,
+15/12/2021,3,14,Téléphone,0,11,Utilitaire,
+15/12/2021,3,14,Snapchat,0,10,Reseaux sociaux,
+15/12/2021,3,14,Discord,0,9,Autre,
+15/12/2021,3,14,Youtube,0,3,Divertissement,
+15/12/2021,3,14,Too Good To Go,0,2,Achats,
+15/12/2021,3,14,Spotify,0,2,Divertissement,
+16/12/2021,5,38,Facebook,3,34,Reseaux sociaux,
+16/12/2021,5,38,Youtube,0,41,Divertissement,
+16/12/2021,5,38,Instagram,0,25,Reseaux sociaux,
+16/12/2021,5,38,Chrome,0,18,Utilitaire,
+16/12/2021,5,38,Téléphone,0,10,Utilitaire,
+16/12/2021,5,38,Discord,0,7,Autre,
+16/12/2021,5,38,Snapchat,0,7,Reseaux sociaux,
+16/12/2021,5,38,Messages,0,5,Utilitaire,
+16/12/2021,5,38,Gmail,0,5,Utilitaire,
+16/12/2021,5,38,Appareil photo,0,2,Creativite,
+16/12/2021,5,38,WhatsApp,0,1,Reseaux sociaux,
+16/12/2021,5,38,Spotify,0,1,Divertissement,
+16/12/2021,5,38,Horloge,0,1,Utilitaire,dernier jour de cours
+17/12/2021,3,5,Instagram,0,44,Reseaux sociaux,dernier jour de cours
+17/12/2021,3,5,Facebook,0,37,Reseaux sociaux,dernier jour de cours
+17/12/2021,3,5,Téléphone,0,34,Utilitaire,dernier jour de cours
+17/12/2021,3,5,Photos,0,22,Creativite,dernier jour de cours
+17/12/2021,3,5,Youtube,0,11,Divertissement,dernier jour de cours
+17/12/2021,3,5,Messages,0,8,Utilitaire,dernier jour de cours
+17/12/2021,3,5,Chrome,0,4,Utilitaire,dernier jour de cours
+17/12/2021,3,5,Horloge,0,4,Utilitaire,dernier jour de cours
+17/12/2021,3,5,Discord,0,4,Autre,dernier jour de cours
+17/12/2021,3,5,Messenger,0,3,Reseaux sociaux,dernier jour de cours
+17/12/2021,3,5,Spotify,0,2,Divertissement,dernier jour de cours
+17/12/2021,3,5,Basic-Fit,0,1,Divertissement,dernier jour de cours
+17/12/2021,3,5,WhatsApp,0,1,Reseaux sociaux,dernier jour de cours
+18/12/2021,4,22,Chrome,2,2,Utilitaire,
+18/12/2021,4,22,Facebook,1,13,Reseaux sociaux,
+18/12/2021,4,22,Instagram,0,36,Reseaux sociaux,
+18/12/2021,4,22,Téléphone,0,9,Utilitaire,
+18/12/2021,4,22,Messages,0,8,Utilitaire,
+18/12/2021,4,22,Maps,0,8,Voyage,
+18/12/2021,4,22,Discord,0,6,Autre,
+18/12/2021,4,22,Youtube,0,3,Divertissement,
+18/12/2021,4,22,Messenger,0,1,Reseaux sociaux,
+19/12/2021,7,47,Facebook,3,52,Reseaux sociaux,
+19/12/2021,7,47,Discord,1,15,Autre,
+19/12/2021,7,47,Instagram,0,49,Reseaux sociaux,
+19/12/2021,7,47,Messenger,0,35,Reseaux sociaux,
+19/12/2021,7,47,Téléphone,0,32,Utilitaire,
+19/12/2021,7,47,Chrome,0,23,Utilitaire,
+19/12/2021,7,47,Snapchat,0,7,Reseaux sociaux,
+19/12/2021,7,47,Ouigo,0,3,Voyage,
+19/12/2021,7,47,Messages,0,2,Utilitaire,
+19/12/2021,7,47,Doctolib,0,2,Utilitaire,
+19/12/2021,7,47,Basic-Fit,0,1,Divertissement,
+19/12/2021,7,47,Youtube,0,1,Divertissement,
+19/12/2021,7,47,Gmail,0,1,Utilitaire,
+19/12/2021,7,47,Mes Comptes LCL,0,1,Finance,
+19/12/2021,7,47,Drive,0,1,Utilitaire,
+20/12/2021,3,31,Facebook,2,7,Reseaux sociaux,
+20/12/2021,3,31,Instagram,0,53,Reseaux sociaux,
+20/12/2021,3,31,Discord,0,8,Autre,
+20/12/2021,3,31,Téléphone,0,4,Utilitaire,
+20/12/2021,3,31,Messenger,0,3,Reseaux sociaux,
+20/12/2021,3,31,Snapchat,0,3,Reseaux sociaux,
+20/12/2021,3,31,Chrome,0,2,Utilitaire,
+20/12/2021,3,31,Cam Scanner,0,2,Utilitaire,
+20/12/2021,3,31,Messages,0,1,Utilitaire,
+20/12/2021,3,31,Appareil photo,0,1,Creativite,
+20/12/2021,3,31,Mes Comptes LCL,0,1,Finance,
+20/12/2021,3,31,Shopmium,0,1,Autre,
+21/12/2021,1,55,Facebook,0,34,Reseaux sociaux,
+21/12/2021,1,55,Instagram,0,22,Reseaux sociaux,
+21/12/2021,1,55,Youtube,0,12,Divertissement,
+21/12/2021,1,55,Messenger,0,12,Reseaux sociaux,
+21/12/2021,1,55,Appareil photo,0,10,Creativite,
+21/12/2021,1,55,Téléphone,0,6,Utilitaire,
+21/12/2021,1,55,Discord,0,4,Autre,
+21/12/2021,1,55,Spotify,0,3,Divertissement,
+21/12/2021,1,55,Chrome,0,2,Utilitaire,
+21/12/2021,1,55,Horloge,0,1,Utilitaire,
+21/12/2021,1,55,Basic-Fit,0,1,Divertissement,
+21/12/2021,1,55,Mes Comptes LCL,0,1,Finance,
+21/12/2021,1,55,Messages,0,1,Utilitaire,
+22/12/2021,3,14,Facebook,1,39,Reseaux sociaux,
+22/12/2021,3,14,Instagram,0,29,Reseaux sociaux,
+22/12/2021,3,14,Horloge,0,15,Utilitaire,
+22/12/2021,3,14,Téléphone,0,13,Utilitaire,
+22/12/2021,3,14,WhatsApp,0,8,Reseaux sociaux,
+22/12/2021,3,14,Gmail,0,5,Utilitaire,
+22/12/2021,3,14,Too Good To Go,0,4,Achats,
+22/12/2021,3,14,Chrome,0,3,Utilitaire,
+22/12/2021,3,14,Discord,0,3,Autre,
+22/12/2021,3,14,Messages,0,2,Utilitaire,
+22/12/2021,3,14,Maps,0,2,Voyage,
+22/12/2021,3,14,Spotify,0,2,Divertissement,
+22/12/2021,3,14,Messenger,0,1,Reseaux sociaux,
+22/12/2021,3,14,Basic-Fit,0,1,Divertissement,
+23/12/2021,7,20,Facebook,2,45,Reseaux sociaux,
+23/12/2021,7,20,Chrome,1,43,Utilitaire,
+23/12/2021,7,20,Youtube,1,12,Divertissement,
+23/12/2021,7,20,Instagram,0,58,Reseaux sociaux,
+23/12/2021,7,20,Téléphone,0,15,Utilitaire,
+23/12/2021,7,20,Gmail,0,5,Utilitaire,
+23/12/2021,7,20,WhatsApp,0,4,Reseaux sociaux,
+23/12/2021,7,20,Snapchat,0,2,Reseaux sociaux,
+23/12/2021,7,20,Messenger,0,2,Reseaux sociaux,
+23/12/2021,7,20,Basic-Fit,0,2,Divertissement,
+23/12/2021,7,20,Spotify,0,1,Divertissement,
+23/12/2021,7,20,Horloge,0,1,Utilitaire,
+24/12/2021,2,36,Instagram,0,52,Reseaux sociaux,
+24/12/2021,2,36,Facebook,0,41,Reseaux sociaux,
+24/12/2021,2,36,Snapchat,0,30,Reseaux sociaux,
+24/12/2021,2,36,Téléphone,0,8,Utilitaire,
+24/12/2021,2,36,Horloge,0,7,Utilitaire,
+24/12/2021,2,36,Chrome,0,4,Utilitaire,
+24/12/2021,2,36,Messenger,0,2,Reseaux sociaux,
+24/12/2021,2,36,Too Good To Go,0,2,Achats,
+25/12/2021,7,22,Facebook,3,29,Reseaux sociaux,
+25/12/2021,7,22,Instagram,1,29,Reseaux sociaux,
+25/12/2021,7,22,Parametres,0,58,Utilitaire,
+25/12/2021,7,22,Youtube,0,41,Divertissement,
+25/12/2021,7,22,Messenger,0,33,Reseaux sociaux,
+25/12/2021,7,22,Crane rescue,0,12,Autre,
+25/12/2021,7,22,Too Good To Go,0,5,Achats,
+25/12/2021,7,22,App Usage,0,4,Creativite,
+25/12/2021,7,22,Play Store,0,3,Divertissement,
+25/12/2021,7,22,Téléphone,0,2,Utilitaire,
+25/12/2021,7,22,Chrome,0,1,Utilitaire,
+25/12/2021,7,22,Geev,0,1,Divertissement,
+25/12/2021,7,22,Horloge,0,1,Utilitaire,
+26/12/2021,5,26,Facebook,2,51,Reseaux sociaux,
+26/12/2021,5,26,Instagram,0,52,Reseaux sociaux,
+26/12/2021,5,26,Messenger,0,30,Reseaux sociaux,
+26/12/2021,5,26,DriverKing,0,25,Jeux,
+26/12/2021,5,26,Snapchat,0,12,Reseaux sociaux,
+26/12/2021,5,26,Chrome,0,10,Utilitaire,
+26/12/2021,5,26,BodyBike,0,5,Divertissement,
+26/12/2021,5,26,Sling Plane,0,4,Jeux,
+26/12/2021,5,26,Too Good To Go,0,3,Achats,
+26/12/2021,5,26,Spotify,0,2,Divertissement,
+26/12/2021,5,26,Discord,0,2,Autre,
+26/12/2021,5,26,Play Store,0,2,Divertissement,
+26/12/2021,5,26,Téléphone,0,1,Utilitaire,
+26/12/2021,5,26,WhatsApp,0,1,Reseaux sociaux,
+26/12/2021,5,26,Boursorama,0,1,Finance,
+27/12/2021,8,29,RL Sideswipe,5,16,Jeux,
+27/12/2021,8,29,Facebook,1,37,Reseaux sociaux,
+27/12/2021,8,29,Instagram,0,33,Reseaux sociaux,
+27/12/2021,8,29,Youtube,0,32,Divertissement,
+27/12/2021,8,29,DriverKing,0,6,Jeux,
+27/12/2021,8,29,Téléphone,0,4,Utilitaire,
+27/12/2021,8,29,Chrome,0,4,Utilitaire,
+27/12/2021,8,29,Play Store,0,3,Divertissement,
+27/12/2021,8,29,Horloge,0,3,Utilitaire,
+27/12/2021,8,29,Google,0,1,Utilitaire,
+27/12/2021,8,29,Maps,0,1,Voyage,
+27/12/2021,8,29,WhatsApp,0,1,Reseaux sociaux,
+27/12/2021,8,29,Gmail,0,1,Utilitaire,
+28/12/2021,0,32,Youtube,0,12,Divertissement,
+28/12/2021,0,32,Téléphone,0,9,Utilitaire,
+28/12/2021,0,32,Discord,0,2,Autre,
+28/12/2021,0,32,Chrome,0,1,Utilitaire,
+28/12/2021,0,32,Cam Scanner,0,1,Utilitaire,
+29/12/2021,1,17,Photos,0,23,Creativite,départ Nantes
+29/12/2021,1,17,Parametres,0,15,Utilitaire,départ Nantes
+29/12/2021,1,17,Chrome,0,9,Utilitaire,départ Nantes
+29/12/2021,1,17,Drive,0,8,Utilitaire,départ Nantes
+29/12/2021,1,17,Téléphone,0,3,Utilitaire,départ Nantes
+29/12/2021,1,17,Vélov,0,2,Autre,départ Nantes
+29/12/2021,1,17,WhatsApp,0,2,Reseaux sociaux,départ Nantes
+29/12/2021,1,17,Youtube,0,1,Divertissement,départ Nantes
+29/12/2021,1,17,Messages,0,1,Utilitaire,départ Nantes
+29/12/2021,1,17,Geev,0,1,Divertissement,départ Nantes
+29/12/2021,1,17,Gmail,0,1,Utilitaire,départ Nantes
+29/12/2021,1,17,Horloge,0,1,Utilitaire,départ Nantes
+30/12/2021,2,31,Chrome,0,55,Utilitaire,
+30/12/2021,2,31,Horloge,0,37,Utilitaire,
+30/12/2021,2,31,Youtube,0,23,Divertissement,
+30/12/2021,2,31,Discord,0,6,Autre,
+30/12/2021,2,31,Appareil photo,0,6,Creativite,
+30/12/2021,2,31,Gmail,0,1,Utilitaire,
+31/12/2021,4,15,Chrome,2,27,Utilitaire,
+31/12/2021,4,15,Horloge,0,29,Utilitaire,
+31/12/2021,4,15,Muslim Pro,0,13,Autre,
+31/12/2021,4,15,Ouigo,0,12,Voyage,
+31/12/2021,4,15,WhatsApp,0,10,Reseaux sociaux,
+31/12/2021,4,15,Téléphone,0,8,Utilitaire,
+31/12/2021,4,15,Youtube,0,8,Divertissement,
+31/12/2021,4,15,Discord,0,8,Autre,
+31/12/2021,4,15,Gmail,0,6,Utilitaire,
+31/12/2021,4,15,Word,0,2,Creativite,
+31/12/2021,4,15,Maps,0,2,Voyage,
+31/12/2021,4,15,Appareil photo,0,1,Creativite,
+31/12/2021,4,15,Drive,0,1,Utilitaire,
+31/12/2021,4,15,Mes Comptes LCL,0,1,Finance,
+01/01/2022,5,7,Chrome,3,58,Utilitaire,
+01/01/2022,5,7,Horloge,0,38,Utilitaire,
+01/01/2022,5,7,Youtube,0,10,Divertissement,
+01/01/2022,5,7,Téléphone,0,5,Utilitaire,
+01/01/2022,5,7,Appareil photo,0,5,Creativite,
+01/01/2022,5,7,Discord,0,3,Autre,
+01/01/2022,5,7,WhatsApp,0,3,Reseaux sociaux,
+02/01/2022,4,53,Chrome,3,0,Utilitaire,retour Lyon
+02/01/2022,4,53,Discord,0,35,Autre,retour Lyon
+02/01/2022,4,53,Horloge,0,18,Utilitaire,retour Lyon
+02/01/2022,4,53,Téléphone,0,16,Utilitaire,retour Lyon
+02/01/2022,4,53,Maps,0,9,Voyage,retour Lyon
+02/01/2022,4,53,LinkedIn,0,9,Reseaux sociaux,retour Lyon
+02/01/2022,4,53,Youtube,0,5,Divertissement,retour Lyon
+02/01/2022,4,53,Spotify,0,4,Divertissement,retour Lyon
+02/01/2022,4,53,Messenger,0,4,Reseaux sociaux,retour Lyon
+02/01/2022,4,53,Gmail,0,2,Utilitaire,retour Lyon
+02/01/2022,4,53,AntiCovid,0,1,Autre,retour Lyon
+02/01/2022,4,53,Drive,0,1,Utilitaire,retour Lyon
+02/01/2022,4,53,Too Good To Go,0,1,Achats,retour Lyon
+02/01/2022,4,53,WhatsApp,0,1,Reseaux sociaux,retour Lyon
+03/01/2022,4,48,Chrome,2,31,Utilitaire,Examen IA & Cognition
+03/01/2022,4,48,Facebook,0,38,Reseaux sociaux,Examen IA & Cognition
+03/01/2022,4,48,Youtube,0,36,Divertissement,Examen IA & Cognition
+03/01/2022,4,48,Messenger,0,28,Reseaux sociaux,Examen IA & Cognition
+03/01/2022,4,48,Téléphone,0,13,Utilitaire,Examen IA & Cognition
+03/01/2022,4,48,Too Good To Go,0,13,Achats,Examen IA & Cognition
+03/01/2022,4,48,Horloge,0,6,Utilitaire,Examen IA & Cognition
+03/01/2022,4,48,Messages,0,4,Utilitaire,Examen IA & Cognition
+03/01/2022,4,48,Cam Scanner,0,4,Utilitaire,Examen IA & Cognition
+03/01/2022,4,48,Maps,0,3,Voyage,Examen IA & Cognition
+03/01/2022,4,48,Discord,0,2,Autre,Examen IA & Cognition
+03/01/2022,4,48,Appareil photo,0,2,Creativite,Examen IA & Cognition
+04/01/2022,6,25,Facebook,4,21,Reseaux sociaux,
+04/01/2022,6,25,Chrome,1,25,Utilitaire,
+04/01/2022,6,25,Discord,0,10,Autre,
+04/01/2022,6,25,Téléphone,0,5,Utilitaire,
+04/01/2022,6,25,Appareil photo,0,3,Creativite,
+04/01/2022,6,25,Gmail,0,2,Utilitaire,
+04/01/2022,6,25,Horloge,0,2,Utilitaire,
+04/01/2022,6,25,WhatsApp,0,1,Reseaux sociaux,
+04/01/2022,6,25,Messages,0,1,Utilitaire,
+04/01/2022,6,25,LinkedIn,0,1,Reseaux sociaux,
+04/01/2022,6,25,Cam Scanner,0,1,Utilitaire,
+04/01/2022,6,25,Mes Comptes LCL,0,1,Finance,
+04/01/2022,6,25,Messenger,0,1,Reseaux sociaux,
+04/01/2022,6,25,Drive,0,1,Utilitaire,
+04/01/2022,6,25,Spotify,0,1,Divertissement,
+05/01/2022,8,50,Facebook,4,16,Reseaux sociaux,
+05/01/2022,8,50,Chrome,2,45,Utilitaire,
+05/01/2022,8,50,Youtube,0,43,Divertissement,
+05/01/2022,8,50,Téléphone,0,8,Utilitaire,
+05/01/2022,8,50,Horloge,0,6,Utilitaire,
+05/01/2022,8,50,WhatsApp,0,5,Reseaux sociaux,
+05/01/2022,8,50,Geev,0,4,Divertissement,
+05/01/2022,8,50,Too Good To Go,0,3,Achats,
+05/01/2022,8,50,Messenger,0,3,Reseaux sociaux,
+05/01/2022,8,50,Gmail,0,1,Utilitaire,
+05/01/2022,8,50,Boursorama,0,1,Finance,
+06/01/2022,7,15,Facebook,5,3,Reseaux sociaux,
+06/01/2022,7,15,WebexMeet,0,41,Utilitaire,
+06/01/2022,7,15,Chrome,0,41,Utilitaire,
+06/01/2022,7,15,Parametres,0,21,Utilitaire,
+06/01/2022,7,15,Discord,0,10,Autre,
+06/01/2022,7,15,Too Good To Go,0,7,Achats,
+06/01/2022,7,15,Téléphone,0,5,Utilitaire,
+06/01/2022,7,15,Messenger,0,4,Reseaux sociaux,
+06/01/2022,7,15,Photos,0,3,Creativite,
+06/01/2022,7,15,Ouigo,0,3,Voyage,
+06/01/2022,7,15,Horloge,0,1,Utilitaire,
+07/01/2022,4,23,Facebook,2,32,Reseaux sociaux,
+07/01/2022,4,23,Chrome,0,31,Utilitaire,
+07/01/2022,4,23,Muslim Pro,0,18,Autre,
+07/01/2022,4,23,Téléphone,0,16,Utilitaire,
+07/01/2022,4,23,Youtube,0,14,Divertissement,
+07/01/2022,4,23,Discord,0,12,Autre,
+07/01/2022,4,23,Messenger,0,4,Reseaux sociaux,
+07/01/2022,4,23,Maps,0,3,Voyage,
+07/01/2022,4,23,Student Pop,0,3,Finance,
+07/01/2022,4,23,Drive,0,2,Utilitaire,
+07/01/2022,4,23,Messages,0,1,Utilitaire,
+07/01/2022,4,23,Too Good To Go,0,1,Achats,
+08/01/2022,5,18,Facebook,1,33,Reseaux sociaux,Job étudiant
+08/01/2022,5,18,Chrome,1,16,Utilitaire,Job étudiant
+08/01/2022,5,18,Messenger,0,35,Reseaux sociaux,Job étudiant
+08/01/2022,5,18,Youtube,0,26,Divertissement,Job étudiant
+08/01/2022,5,18,Discord,0,8,Autre,Job étudiant
+08/01/2022,5,18,Student Pop,0,6,Finance,Job étudiant
+08/01/2022,5,18,Téléphone,0,5,Utilitaire,Job étudiant
+08/01/2022,5,18,Messages,0,4,Utilitaire,Job étudiant
+08/01/2022,5,18,Cam Scanner,0,2,Utilitaire,Job étudiant
+08/01/2022,5,18,Appareil photo,0,1,Creativite,Job étudiant
+08/01/2022,5,18,Gmail,0,1,Utilitaire,Job étudiant
+09/01/2022,5,3,Facebook,3,7,Reseaux sociaux,Rendu IBI
+09/01/2022,5,3,Chrome,0,53,Utilitaire,Rendu IBI
+09/01/2022,5,3,Messenger,0,26,Reseaux sociaux,Rendu IBI
+09/01/2022,5,3,WhatsApp,0,11,Reseaux sociaux,Rendu IBI
+09/01/2022,5,3,Discord,0,7,Autre,Rendu IBI
+09/01/2022,5,3,Téléphone,0,7,Utilitaire,Rendu IBI
+09/01/2022,5,3,Play Store,0,3,Divertissement,Rendu IBI
+09/01/2022,5,3,getir,0,2,Autre,Rendu IBI
+09/01/2022,5,3,LinkedIn,0,1,Reseaux sociaux,Rendu IBI
+09/01/2022,5,3,Wizz Air,0,1,Autre,Rendu IBI
+10/01/2022,7,46,Facebook,4,17,Reseaux sociaux,
+10/01/2022,7,46,Chrome,1,24,Utilitaire,
+10/01/2022,7,46,Horloge,0,25,Utilitaire,
+10/01/2022,7,46,Yacine TV,0,24,Autre,
+10/01/2022,7,46,Youtube,0,23,Divertissement,
+10/01/2022,7,46,Discord,0,19,Autre,
+10/01/2022,7,46,WhatsApp,0,12,Reseaux sociaux,
+10/01/2022,7,46,Téléphone,0,6,Utilitaire,
+10/01/2022,7,46,Wizz Air,0,5,Autre,
+10/01/2022,7,46,Messages,0,4,Utilitaire,
+10/01/2022,7,46,Spotify,0,2,Divertissement,
+10/01/2022,7,46,Gmail,0,1,Utilitaire,
+11/01/2022,10,11,Facebook,5,25,Reseaux sociaux,
+11/01/2022,10,11,Yacine TV,4,20,Autre,
+11/01/2022,10,11,Chrome,0,9,Utilitaire,
+11/01/2022,10,11,Parametres,0,8,Utilitaire,
+11/01/2022,10,11,Discord,0,6,Autre,
+11/01/2022,10,11,Messenger,0,2,Reseaux sociaux,
+11/01/2022,10,11,Téléphone,0,1,Utilitaire,
+11/01/2022,10,11,Horloge,0,1,Utilitaire,
+11/01/2022,10,11,Messages,0,1,Utilitaire,
