@@ -32,8 +32,12 @@ let dayAndCatTime = {};
 /**  **/
 let catAndApp = {};
 let listEvent = [];
+let catTime = []
+
 
 let user = "leo";
+
+let dataset = [];
 
 processData();
 
@@ -68,8 +72,49 @@ function processData() {
                 });
             }
         }
+        let first = true
+        for(let arr in dayAndCatTime) {
+            if(first) {
+                for(let i = 0; i < cat.length; i++) {
+                    catTime.push({cat: dayAndCatTime[arr][i].cat, temps:dayAndCatTime[arr][i].temps})
+                }
+                first = false
+            }
+            else {
+                for(let i = 0; i < cat.length; i++) {
+                    catTime[i].temps += dayAndCatTime[arr][i].temps
+                }
+            }
+        }
+
+        const NUM_OF_SIDES = 8;
+        NUM_OF_LEVEL = 4,
+        size = Math.min( window.innerWidth, window.innerHeight, 150 ),
+        offset = Math.PI,
+        polyangle = ( Math.PI * 2 ) / NUM_OF_SIDES,
+        r = 0.8 * size,
+        r_0 = r / 2,
+        center = {
+            x: size / 2,
+            y: size / 2
+        };
+
+        const ticks = genTicks( NUM_OF_LEVEL );
+        dataset = generateData( NUM_OF_SIDES );
+
+        const wrapper = d3.select( ".chart" )
+            .append( "svg" )
+            .attr( "width", size )
+            .attr( "height", size );
+
+
         drawPhone(catAndTimeForDay(data[0].jour), data[0].jour)
         drawChart(data);
+        
+        generateAndDrawLevels( NUM_OF_LEVEL, NUM_OF_SIDES );
+        generateAndDrawLines( NUM_OF_SIDES );
+        drawData( dataset, NUM_OF_SIDES );
+        drawLabels( dataset, NUM_OF_SIDES );
     }).then( () => {
         if (!$.fn.DataTable.isDataTable('#event')) {
             $('#event').DataTable({
@@ -197,7 +242,6 @@ function drawPhone(val, day) {
 function handleOpacity(d) {
     d3.select("#chartVisu").selectAll("rect")
                     .filter(function(rect) {
-                            // console.log(rect.data)
                             if(d.data.date == rect.data.date)
                                 return 0;
                             return 1;
@@ -211,6 +255,180 @@ function handleOpacity(d) {
                     })
                     .attr("opacity", 1)
 }
+
+const generateData = ( length ) => {
+    let data = [];
+    let tot = 0;
+    for(let i = 0; i < catTime.length; i++) {
+        tot += catTime[i].temps
+    }
+    for ( let i = 0; i < length; i++ ) {
+        data.push({
+            name: catTime[i].cat,
+            value: catTime[i].temps / tot * 100 + 30
+        });
+    }
+    return data;
+};
+
+const genTicks = levels => {
+    const ticks = [];
+    const step = 100 / levels;
+    for ( let i = 0; i <= levels; i++ )
+    {
+        const num = step * i;
+        if ( Number.isInteger( step ) )
+        {
+            ticks.push( num );
+        }
+        else
+        {
+            ticks.push( num.toFixed( 2 ) );
+        }
+
+
+    }
+
+    return ticks;
+};
+
+const generatePoint = ( { length, angle } ) => {
+    const point = {
+        x: center.x + ( length * Math.sin( offset - angle ) ),
+        y: center.y + ( length * Math.cos( offset - angle ) )
+    };
+    return point;
+};
+
+const drawPath = ( points, parent ) => {
+    const lineGenerator = d3.line()
+        .x( d => d.x )
+        .y( d => d.y );
+
+    parent.append( "path" )
+        .attr( "d", lineGenerator( points ) );
+};
+
+const generateAndDrawLevels = ( levelsCount, sideCount ) => {
+    const g = d3.select( "svg" ).append( "g" );
+    for (let level = 1; level <= levelsCount; level++) {
+        const hyp = ( level / levelsCount ) * r_0;
+
+        const points = [];
+        for (let vertex = 0; vertex < sideCount; vertex++) {
+            const theta = vertex * polyangle;
+
+            points.push( generatePoint( { length: hyp, angle: theta } ) );
+
+        }
+        const group = g.append( "g" ).attr( "class", "levels" );
+        drawPath( [ ...points, points[ 0 ] ], group );
+    }
+
+
+};
+
+const generateAndDrawLines = ( sideCount ) => {
+    const g = d3.select( "svg" ).append( "g" );
+    const group = g.append( "g" ).attr( "class", "grid-lines" );
+    for (let vertex = 1; vertex <= sideCount; vertex++) {
+        const theta = vertex * polyangle;
+        const point = generatePoint( { length: r_0, angle: theta } );
+
+        drawPath( [ center, point ], group );
+    }
+
+};
+
+const drawCircles = points => {
+    const tooltip = d3.select( ".tooltip" );
+    const g = d3.select( "svg" ).append( "g" );
+    const mouseEnter = (e,d) => {
+        tooltip.style( "opacity", 1 );
+        const x = d.x;
+        const y = d.y
+        // const { x, y } = e.x, e.y;
+        tooltip.style( "top", `${ y - 20 }px` );
+        tooltip.style( "left", `${ x + 15 }px` );
+        tooltip.text(`${(d.value-30).toFixed(1)}%`);
+    };
+
+    const mouseLeave = d => {
+        tooltip.style( "opacity", 0 );
+    };
+
+    g.append( "g" )
+        .attr( "class", "indic" )
+        .selectAll( "circle" )
+        .data( points )
+        .enter()
+        .append( "circle" )
+        .attr( "cx", d => d.x )
+        .attr( "cy", d => d.y )
+        .attr( "r", 3 )
+        .on( "mouseenter", mouseEnter )
+        .on( "mouseleave", mouseLeave );
+
+};
+
+const drawText = ( text, point, isAxis, group ) => {
+    if (isAxis) {
+        const xSpacing = text.toString().includes( "." ) ? 30 : 22;
+        group.append( "text" )
+            .attr( "x", point.x - xSpacing )
+            .attr( "y", point.y + 5 )
+            .html( text )
+            .style( "text-anchor", "middle" )
+            .attr( "fill", "darkgrey" )
+            .style( "font-size", "12px" )
+            .style( "font-family", "sans-serif" );
+    } else {
+        group.append( "text" )
+            .attr( "x", point.x )
+            .attr( "y", point.y )
+            .html( text )
+            .style( "text-anchor", "middle" )
+            .attr( "fill", "darkgrey" )
+            .style( "font-size", "12px" )
+            .style( "font-family", "sans-serif" );
+    }
+};
+
+const drawData = ( dataset, n ) => {
+    const g = d3.select( "svg" ).append( "g" );
+    const points = [];
+    const scale = d3.scaleLinear()
+        .domain( [ 0, 100 ] )
+        .range( [ 0, r_0 ] )
+        .nice();
+    dataset.forEach( ( d, i ) => {
+        const len = scale( d.value );
+        const theta = i * ( 2 * Math.PI / n );
+        points.push(
+            {
+                ...generatePoint( { length: len, angle: theta } ),
+                value: d.value
+            });
+    });
+
+    const group = g.append( "g" ).attr( "class", "shape" );
+
+    drawPath( [ ...points, points[ 0 ] ], group );
+    drawCircles( points );
+};
+
+const drawLabels = ( dataset, sideCount ) => {
+    const g = d3.select( "svg" ).append( "g" );
+    const groupL = g.append( "g" ).attr( "class", "labels" );
+    for ( let vertex = 0; vertex < sideCount; vertex++ ) {
+
+        const angle = vertex * polyangle;
+        const label = dataset[ vertex ].name;
+        const point = generatePoint( { length: 0.9 * ( size / 2 ), angle } );
+
+        drawText( label, point, false, groupL );
+    }
+};
 
 function drawChart(data) {
     d3.select("#panels #rightPanel #chartVisu").selectAll('*').remove();
@@ -400,4 +618,6 @@ function clearData() {
     $('#event').DataTable().clear();
     dayAndCatTime = {};
     dayAndTime = [];
+    d3.select( "svg" ).remove();
+    dataset = [];
 }
